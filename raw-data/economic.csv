@@ -1,0 +1,752 @@
+isPrem,tank_id,avg_ammo_cost,tier,avg_earnings,image,name,class,avg_consumables_cost,nation,cost_per_shot,avg_repair_cost,earnings_per_minute,profit_per_minute,battles,avg_profit
+True,52129,23216,8,112120,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It13_Progetto_M35_mod_46_LE.png,Mars,MT,6432,Italy,1735,7572,21454,14331,6321,74898
+True,51105,21226,8,109205,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It18_Progetto_C45_mod_71.png,Bisonte C45,HT,8121,Italy,2215,6210,21704,14637,25302,73645
+True,44289,21504,8,108094,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R165_Object_703_II.png,703 II (122),HT,8313,USSR,2344,7419,21353,13997,46284,70857
+True,32545,24035,8,109963,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A153_XM66F.png,XM66F,TD,8276,USA,2545,6858,20500,13197,52986,70792
+True,43585,8086,8,94565,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F106_Panhard_EBR_75_Mle1954.png,EBR 75 FL 10,LT,10866,France,685,5076,21458,16005,21266,70535
+True,56065,19848,8,101436,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R115_IS-3_auto_S.png,Peregrine,HT,6245,USSR,2087,6849,19984,13494,3623,68492
+True,61265,24410,8,108958,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB121_GSOR_1010_FB.png,GSOR 1010,MT,10662,UK,2808,6179,21082,13100,70797,67706
+True,49425,21449,8,106521,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G44_JagdTigerH.png,Jagdtiger Pr,TD,9334,Germany,2587,8297,18195,11519,6631,67438
+True,52049,33733,8,118325,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB111_Charlemagne.png,Charlemagne,HT,10254,UK,3670,6923,21830,12437,1138,67414
+True,51057,26895,8,110259,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/czech-Cz14_Skoda_T-56.png,Škoda T 56,HT,9831,Czech,3222,6631,21081,12791,79736,66901
+True,53249,13095,8,94231,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R54_KV-5.png,KV-5,HT,4756,USSR,1345,9507,25673,18219,10151,66872
+True,65329,16054,8,98778,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch43_WZ_122_2.png,122 TM,MT,8914,China,1991,7136,17563,11855,19871,66673
+True,53601,24851,8,111490,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J36_Type_63_HT.png,Type 63,HT,9694,Japan,2511,10282,21952,13125,88195,66661
+True,30465,38045,9,131462,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R172_Object_752.png,Obj. 752,HT,10850,USSR,3661,15935,23225,11771,64186,66631
+True,53345,25535,8,108129,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J31_Type_5_KaRi.png,Ka-Ri,TD,9668,Japan,2945,6565,18307,11235,24927,66360
+True,61985,26589,8,109891,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A124_T54E2.png,Renegade,HT,10530,USA,2478,7236,21595,12878,24832,65535
+True,23057,29340,9,122284,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G167_Tiger_Maus_120t.png,Tiger-Maus,HT,10563,Germany,3515,16931,22236,11901,72476,65449
+True,57377,26685,8,102564,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A111_T25_Pilot.png,T25 Pilot 1,MT,3370,USA,2181,7570,19690,12467,980,64938
+True,45057,16358,8,96041,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R159_SU_130PM.png,SU-130PM,TD,9169,USSR,2111,5587,15912,10757,84156,64925
+True,63233,15444,8,96317,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R128_KV4_Kreslavskiy.png,KV-4 Kresl.,HT,5796,USSR,1765,10796,22548,15048,1123,64279
+True,59425,21303,8,102917,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A13_T34_hvy_BF.png,T34 B,HT,11122,USA,2673,6671,20774,12882,1787,63820
+True,27905,16697,8,93826,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R159_SU_130PM_DR.png,Forest Spirit,TD,7809,USSR,2177,5718,15659,10614,11074,63600
+True,60753,24415,8,102335,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB115_Gonsalo.png,Gonsalo,HT,8561,UK,2832,6332,19753,12165,3773,63025
+True,46865,21137,8,99861,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G143_E75_TS.png,E 75 TS,HT,8203,Germany,2294,7766,21354,13419,12536,62754
+True,60529,20783,8,97932,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/czech-Cz20_ShPTK_TVP_100_mm.png,ShPTK-TVP,TD,8342,Czech,1372,6102,17893,11456,85566,62703
+True,60225,26556,8,108689,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F116_Bat_Chatillon_Bourrasque.png,Bourrasque,MT,13135,France,3010,6471,20879,12011,177150,62525
+True,45841,17816,8,97412,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/germany-G154_Kpz_07_RH.png,Kpz 07 RH,MT,9829,Germany,1126,7370,19670,12599,44462,62396
+True,60209,37765,8,119765,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch47_BZ_176.png,BZ-176,HT,11685,China,6423,7974,23443,12202,87968,62339
+True,50833,21249,8,98328,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/poland-Pl24_56TP.png,56TP,HT,7466,Poland,2386,7413,18488,11694,12012,62198
+True,58625,17174,8,93950,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R111_ISU130.png,ISU-130,TD,10052,USSR,2143,4712,15342,10126,221,62011
+True,51361,20230,8,97584,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It13_Progetto_M35_mod_46.png,Progetto 46,MT,7929,Italy,1531,7488,18301,11615,148347,61937
+True,54289,22425,8,97307,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G51_Lowe.png,Löwe,HT,6916,Germany,2402,6824,18474,11608,19312,61141
+True,817,26430,8,102742,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch03_WZ-111.png,WZ-111,HT,6544,China,3050,8633,20772,12360,867,61133
+True,62481,16461,8,90921,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G114_Skorpian.png,Skorpion,TD,7383,Germany,2189,5985,15991,10744,43184,61090
+True,52097,14848,8,87956,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S22_Strv_S1.png,Strv S1,TD,7223,Sweden,1767,4974,14649,10145,28265,60910
+True,51233,21412,8,98897,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A132_T77.png,T77,HT,9321,USA,2320,7859,18974,11570,5165,60303
+True,62785,25969,8,102965,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F74_AMX_M4_1949.png,AMX M4 49,HT,8870,France,2418,8009,19875,11603,4348,60115
+True,58913,20727,8,96171,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A117_T26E5.png,T26E5,HT,7248,USA,1587,8523,19166,11892,5015,59672
+True,64049,16310,8,90697,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch14_T34_3.png,T-34-3,MT,7172,China,1969,7549,17608,11583,9967,59664
+True,51089,22900,8,97662,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl19_CS_52_LIS.png,CS-52 LIS,MT,8615,Poland,2185,7159,18884,11406,46175,58987
+True,63025,24288,9,98102,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch40_WZ120G_FT.png,WZ-120G FT,TD,5466,China,2693,9432,15001,9008,477,58914
+True,913,18948,8,91604,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl08_50TP_prototyp.png,50TP pr.,HT,6576,Poland,2346,7353,17831,11431,9856,58726
+True,62529,18376,8,91433,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F19_Lorraine40t.png,Lorr. 40 t,MT,7830,France,1907,7071,17916,11395,22183,58156
+True,59169,15868,8,87797,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A117_T26E5_Patriot.png,T26E5 P,HT,5625,USA,1228,8462,17418,11475,12100,57841
+True,62273,23477,8,96118,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F84_Somua_SM.png,Somua SM,HT,7165,France,2156,7840,18434,11053,7863,57635
+True,60449,20245,8,92615,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A122_TS-5.png,TS-5,TD,6593,USA,2155,8223,17522,10888,10142,57553
+True,59985,28957,8,102464,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB99_Turtle_Mk1.png,Turtle I,TD,8419,UK,2285,7984,18863,10512,30426,57102
+True,48641,20137,8,91626,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R134_Object_252K.png,Defender,HT,7749,USSR,2639,6659,18531,11544,6085,57079
+True,63041,12483,8,86593,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F73_M4A1_Revalorise.png,M4A1 Rev.,MT,9762,France,1454,7321,15455,10178,4338,57026
+True,63281,16624,8,87317,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch39_WZ120_1G_FT.png,WZ-120-1 FT,TD,8021,China,1993,5674,15150,9889,9430,56996
+True,62017,19079,8,91000,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F74_AMX_M4_1949_Liberte.png,AMX M4 49 L,HT,6750,France,1922,8192,18612,11653,6802,56978
+True,47617,20579,8,93279,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R146_STG.png,STG,MT,9200,USSR,2427,6866,16383,9947,2153,56633
+True,32065,21814,8,96200,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/france-F117_Alt_Proto_AMX_30.png,A.P. AMX 30,MT,10665,France,2059,7157,18588,10929,4862,56563
+True,43297,33180,8,106566,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A158_T832.png,T-832,HT,9288,USA,2881,7564,19727,10465,24626,56532
+True,2849,18301,8,88848,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A13_T34_hvy.png,T34,HT,7756,USA,2436,6398,17415,11053,4259,56391
+True,60417,20544,8,90906,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R115_IS-3_auto.png,IS-3A,HT,7307,USSR,2331,6968,18213,11237,6504,56085
+True,52065,16301,8,86040,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J18_STA_2_3.png,STA-2,MT,6255,Japan,1382,7511,15815,10288,4123,55971
+True,52513,32048,8,102556,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A45_M6A2E1.png,M6A2E1,HT,7671,USA,3190,6900,20680,11279,2924,55935
+True,47377,8263,8,81003,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G140_HWK_30.png,HWK 30,LT,10228,Germany,1135,6591,18624,12857,11379,55919
+True,33041,24282,9,99035,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G168_KJpz_T_III.png,TIII Jäger,TD,10658,Germany,2670,8225,16065,9062,6948,55868
+True,49665,20805,8,90923,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R134_Object_252U.png,Obj. 252U,HT,7575,USSR,2695,6688,17708,10878,6909,55854
+True,64561,26135,8,94678,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch23_112.png,112,HT,6370,China,2937,6725,18846,11037,3026,55447
+True,34081,25658,8,96959,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A149_AMBT.png,AMBT,MT,9191,USA,2887,6778,18220,10398,15520,55331
+True,48913,19308,8,91076,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G138_VK168_02.png,VK 168.01 P,HT,8228,Germany,2588,8210,19168,11645,3659,55330
+True,63761,29373,8,104358,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G119_Panzer58.png,Pz. 58,MT,12995,Germany,2481,6718,18873,9996,617,55271
+True,61505,10911,8,83778,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F97_ELC_EVEN_90.png,ELC EVEN 90,LT,12899,France,1894,4729,17504,11541,100377,55237
+True,49937,19124,8,88116,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G119_Panzer58_BF.png,Schwarzpz.58,MT,7195,Germany,1704,6673,15908,9952,1303,55122
+True,50193,17378,8,86673,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G114_Rheinmetall_Skorpian.png,Skorpion G,TD,8293,Germany,2291,5957,15030,9545,71465,55045
+True,48401,14698,8,82850,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G112_KanonenJagdPanzer_105.png,KanJPz 105,TD,7959,Germany,1782,5384,13947,9226,9033,54807
+True,49,29551,8,100316,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch01_Type59.png,Type 59,MT,8964,China,2484,6997,19480,10641,15772,54802
+True,54657,23177,8,93866,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/sweden-S32_Bofors_Tornvagn.png,Tornvagn,HT,9075,Sweden,2750,7574,17415,10026,11770,54039
+True,53121,20345,8,89292,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S26_Lansen_C.png,Lansen C,MT,7875,Sweden,2041,7075,16567,10018,11463,53995
+True,52865,22659,8,92229,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S25_EMIL_51.png,EMIL 1951,HT,8784,Sweden,2418,6810,18362,10746,4049,53975
+True,55313,18892,8,86391,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G65_JagdTiger_SdKfz_185.png,"JgTig.8,8 cm",TD,5501,Germany,1391,8027,15828,9888,1710,53969
+True,64017,11525,8,82270,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G120_M41_90.png,M 41 90 mm,LT,11516,Germany,1399,5419,18782,12284,3735,53808
+True,43553,25820,8,95874,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/usa-A141_M_IV_Y.png,M-IV-Y,HT,9580,USA,2580,6769,18752,10504,3935,53703
+True,31745,14517,8,82519,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R177_ISU_152K_BL10.png,ISU-152K,TD,8523,USSR,2744,5851,14002,9099,16662,53625
+True,58449,10008,8,79308,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB101_FV1066_Senlac.png,Senlac,LT,10082,UK,1318,5789,18393,12391,7690,53428
+True,56081,19397,8,88577,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G141_VK7501K.png,VK 75.01 K,HT,8505,Germany,2833,7358,17257,10387,3436,53316
+True,45569,8753,8,83601,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R158_LT_432.png,LT-432,LT,11873,USSR,979,9688,18942,12073,38556,53286
+True,65073,24578,8,93747,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch03_WZ_111_A.png,Alpine Tiger,HT,7276,China,2784,8641,18733,10641,3241,53251
+True,51537,16715,8,87067,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB112_Caliban.png,Caliban,HT,11258,UK,3211,6232,16657,10113,14551,52860
+True,34849,25731,8,95112,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A145_TS_54.png,TS-54,HT,9037,USA,2183,7538,18831,10454,22695,52803
+True,33057,24509,8,91370,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A152_M_Project.png,Iron Arnie,MT,8460,USA,2435,6086,17678,10121,28738,52314
+True,61953,32851,8,104368,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R122_T44_100.png,T-44-100,MT,12302,USSR,2420,7005,19483,9746,15329,52209
+True,37393,14915,8,85183,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G164_Kpz_Pr_68_P.png,MKpz 68 (P),MT,11506,Germany,1863,6707,15209,9294,60263,52054
+True,54145,26713,9,105510,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/sweden-S31_Strv_K.png,Strv K,HT,9805,Sweden,2601,16991,19269,9496,3183,51999
+True,55633,21976,8,88702,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB70_N_FV4202_105.png,FV4202,MT,7454,UK,1910,7475,17181,10033,3009,51796
+True,32257,21412,8,87577,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R180_Object_274_A.png,Obj. 274a,MT,7854,USSR,2226,6544,16977,10034,11523,51765
+True,61761,15277,8,79770,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F89_Canon_dassaut_de_105.png,AMX Cda 105,TD,8430,France,1786,5009,13510,8646,4753,51052
+True,52113,17156,8,81864,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/poland-Pl08_50TP_Prototyp_Resilient.png,50TP R.,HT,6132,Poland,2057,7547,15214,9483,5604,51027
+True,47361,15076,8,80523,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R146_STG_Tday.png,Guard,MT,7191,USSR,1928,7265,15237,9649,8064,50989
+True,35105,32576,8,98273,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/usa-A140_ASTRON_REX_105mm.png,ASTRON Rex,MT,8207,USA,3227,6606,17661,9144,11650,50882
+True,48385,14260,8,77465,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R135_T_103.png,T-103,TD,5902,USSR,1809,6643,14377,9402,18644,50659
+True,50337,23195,8,88562,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It30_CC_mod_64_Prem.png,Vipera,TD,7735,Italy,2822,7244,16927,9630,15497,50386
+True,64273,14461,8,76271,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G119_Pz58_Mutz.png,Pz. 58 Mutz,MT,4707,Germany,1364,6750,14004,9245,2395,50352
+True,52609,20044,8,87132,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S23_Strv_81_sabaton.png,P:Victoria,MT,5374,Sweden,1805,11431,17923,10343,837,50283
+True,34561,27184,8,95690,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R192_K_2.png,K-2,HT,10306,USSR,3053,8038,17854,9359,4332,50161
+True,34337,29212,9,94802,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A146_TL_7_120.png,TL-7,TD,8531,USA,3109,7589,15976,8336,7600,49469
+True,13345,21946,8,86420,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A80_T26_E4_SuperPershing.png,T26E4,MT,7417,USA,1827,7942,16993,9657,10195,49113
+True,61969,13319,8,82301,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G112_KanonenJagdPanzer.png,KanJPz,TD,13218,Germany,1268,6815,15412,9166,179,48948
+True,62721,24448,8,97538,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R123_Kirovets_1.png,Kirovets-1,HT,12837,USSR,2806,11367,19615,9831,916,48885
+True,51825,22874,8,86380,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz13_T_27.png,Škoda T 27,MT,7473,Czech,2073,7211,16697,9437,8681,48820
+True,58657,28932,8,91257,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A115_Chrysler_K_GF.png,Chrysler GF,HT,6707,USA,2789,7033,19776,10528,4107,48583
+True,64001,38294,8,119855,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R188_Object_259A_CN.png,Udarniy,HT,25040,USSR,3524,8015,24852,10057,262,48506
+True,62001,8220,8,73508,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch42_WalkerBulldog_M41D.png,M41D,LT,10645,China,960,6153,18064,11916,2684,48489
+True,37377,21684,8,85409,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R205_Tank_Rozanova_Obsidian.png,Obsidian,MT,8695,USSR,1378,6882,15976,9006,30078,48146
+True,52305,31132,8,94750,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB109_GSOR_1008.png,GSOR 1008,TD,9572,UK,3195,6042,16318,8267,24796,48003
+True,62209,21272,8,83109,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R121_KV4_KTT.png,KV-4 KTTS,TD,7044,USSR,2157,8036,16856,9483,1977,46755
+True,62241,23163,8,83052,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A127_TL_1_LPC.png,TL-1 LPC,MT,5753,USA,2228,7442,15908,8943,1694,46692
+True,561,31023,8,94931,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch01_Type59_Gold.png,Type 59 G,MT,10542,China,2619,6882,17808,8720,1060,46483
+True,33313,25452,9,96629,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A156_T54_2022.png,T54 Heavy,HT,10531,USA,2849,14476,18256,8722,2828,46167
+True,52353,22269,8,87855,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S23_Strv_81.png,Strv 81,MT,7935,Sweden,1883,11640,17818,9331,3067,46009
+True,57889,10080,8,74505,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A99_T92_LT.png,T92,LT,13134,USA,1257,5591,17318,10622,5733,45699
+True,9217,20814,8,80697,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R61_Object252.png,IS-6,HT,7341,USSR,2499,6894,16294,9216,2739,45647
+True,57121,20647,8,80277,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A63_M46_Patton_KR.png,M46 KR,MT,6389,USA,2055,7671,16749,9507,610,45568
+True,60465,22457,9,101512,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch45_WZ_114.png,WZ-114,HT,12652,China,2936,21384,17811,7899,3176,45017
+True,51793,30138,9,103497,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB110_FV4201_Chieftain_Prototype.png,Chieftain P.,HT,11527,UK,2971,17118,19618,8475,14523,44713
+True,60177,21056,8,82431,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G106_PzKpfwPanther_AusfF.png,"Panther 8,8",MT,8801,Germany,1904,7912,16111,8729,2104,44661
+True,50961,8301,8,66910,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G120_M41_90_GrandFinal.png,M 41 90 GF,LT,8741,Germany,1114,5601,16608,10987,6612,44265
+True,58881,19967,8,77737,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R113_Object_730.png,IS-5,HT,6938,USSR,2493,7019,16730,9429,1353,43812
+True,56913,22025,8,81683,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB94_Centurion_Mk5-1_RAAC.png,Centurion 5/1,MT,8714,UK,1826,7366,15584,8314,6539,43577
+True,60193,32670,8,87736,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A115_Chrysler_K.png,Chrysler K,HT,6699,USA,3337,6910,18142,8572,2394,41455
+True,63793,21436,8,78869,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch26_59_Patton.png,59-Patton,MT,9193,China,1956,7190,15175,7898,534,41049
+True,49409,27199,8,83089,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R61_Object252_BF.png,IS-6 B,HT,8005,USSR,2886,6906,15905,7844,2876,40978
+True,64065,23520,8,82059,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F65_FCM_50t.png,FCM 50 t,HT,9978,France,2062,7844,17977,8919,732,40715
+True,56657,29455,8,83600,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB93_Caernarvon_AX.png,Caernarvon AX,HT,6862,UK,2267,6891,17732,8567,5854,40390
+True,48145,20029,8,74552,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G138_VK168_02_Mauerbrecher.png,Mauerbrecher,HT,6028,Germany,2985,8301,15408,8307,760,40192
+True,59937,20251,7,68604,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A121_M26_Cologne.png,Eagle 7,MT,4394,USA,1963,5231,12949,7309,1304,38726
+True,59905,23938,8,79549,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R112_T54_45.png,T-54 mod. 1,MT,9994,USSR,2195,6983,15650,7600,6475,38632
+True,305,13402,7,65305,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch02_Type62.png,Type 62,LT,9862,China,1537,3830,14446,8452,4090,38209
+True,63553,24224,8,82748,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F68_AMX_Chasseur_de_char_46.png,AMX CDC,MT,12895,France,2042,7523,15890,7317,1914,38104
+True,62993,26008,7,76948,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G118_VK4503.png,VK 45.03,HT,5991,Germany,2535,6861,15111,7479,2018,38087
+True,46609,20546,8,74493,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G142_M48RPz.png,M48 RPz,MT,8669,Germany,1807,7665,14429,7285,1270,37613
+True,59137,21095,7,69475,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R71_IS_2B.png,IS-2,HT,7361,USSR,2877,6046,13441,6766,811,34972
+True,61473,21193,7,67989,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A126_PzVI_Tiger_II_capt.png,King Tiger (C),HT,5564,USA,2093,6332,13422,6889,2977,34898
+True,15441,23770,8,81641,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB87_Chieftain_T95_turret.png,Chieftain/T95,MT,12067,UK,2027,11196,15805,6699,1293,34606
+True,61713,17130,7,59588,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G109_Steyr_WT.png,Steyr WT,TD,4778,Germany,1713,4013,9988,5643,3275,33665
+True,35617,14300,5,52360,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A161_ARMT.png,ARMT,MT,4704,USA,1229,1530,10763,6542,7131,31824
+True,31233,19983,7,62595,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R175_IS_2_screen.png,IS-2S,HT,5374,USSR,2739,5742,12334,6205,2096,31494
+True,46593,21746,7,64039,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R156_IS_2M.png,IS-2M,HT,4690,USSR,2865,6229,12724,6233,897,31372
+True,56353,14536,7,56069,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A101_M56.png,Scorpion,TD,6315,USA,1501,3994,9285,5170,4742,31222
+True,49921,21201,7,66763,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R133_KV_122.png,KV-122,HT,8652,USSR,3318,5777,13102,6109,1172,31131
+True,32321,35461,9,90554,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/france-F118_Char_Mle_75.png,Char Mle. 75,LT,13212,France,2863,10810,20135,6908,14142,31070
+True,55297,21103,7,64307,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R89_SU122_44.png,SU-122-44,TD,6678,USSR,2613,5469,11680,5640,4391,31056
+True,54785,9288,6,48290,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R49_SU100Y.png,SU-100Y,TD,5885,USSR,1753,2859,8857,5549,5045,30256
+True,50721,35924,8,88014,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A136_T42.png,T42,MT,15065,USA,3357,7079,16617,5653,1536,29944
+True,51313,31687,7,73662,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz15_Skoda_T-45_Prem.png,Škoda T 45,HT,5605,Czech,2405,6576,13100,5298,133,29793
+True,51553,15492,5,51537,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J12_Chi_Nu_Kai.png,Chi-Nu Kai,MT,5047,Japan,1092,1498,9757,5585,1382,29499
+True,2113,5618,5,42049,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F28_105_leFH18B2.png,leFH18B2,SPG,6701,France,272,648,6645,4595,18848,29080
+True,57617,24080,7,65540,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G78_Panther_M10.png,Panther/M10,MT,7465,Germany,1592,6068,13376,5699,3426,27925
+True,50209,20119,5,57823,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A160_M24_594.png,Chaffee 594,LT,8260,USA,1691,1745,12647,6058,3701,27698
+False,273,7256,6,37766,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G02_Hummel.png,Hummel,SPG,2557,Germany,943,1271,6113,4318,8786,26681
+True,59649,21683,7,56615,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R116_ISU122C_Berlin.png,ISU-122S,TD,4627,USSR,2718,3706,10000,4698,1265,26598
+False,4673,7445,6,37212,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F23_AMX_13F3AM.png,AMX 13 F3,SPG,2585,France,966,1116,5781,4049,6792,26065
+True,34305,15371,5,50028,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R193_M4A2_T_34.png,M4-85,MT,7055,USSR,1480,1591,9920,5158,1148,26011
+True,61441,13275,4,43927,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R118_T28_F30.png,T-28E F-30,MT,3450,USSR,1332,1402,9126,5360,2308,25799
+True,54609,2736,3,31413,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB78_Sexton_I.png,Sexton I,SPG,2818,UK,189,295,5653,4601,654,25563
+True,51569,14812,6,47346,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz01_Skoda_T40.png,Škoda T 40,MT,4593,Czech,1505,2699,9763,5204,2133,25240
+True,40961,11171,4,41657,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R201_IT_3.png,IT-3,MT,4100,USSR,955,1507,10488,6263,1635,24876
+True,51345,17889,6,50337,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl16_T34_85_Rudy.png,Rudy Pl,MT,5126,Poland,1554,2646,10173,4986,2771,24675
+True,64769,14922,6,51696,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R152_KV2_W.png,KV-2 (R),HT,8722,USSR,3047,3437,10607,5050,5611,24613
+True,54097,26115,7,62050,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB71_AT_15A.png,AT 15A,TD,5985,UK,1757,5428,11770,4651,1736,24520
+True,47105,14912,5,43971,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R154_T_34E_1943.png,T-34S,MT,2898,USSR,990,1719,9261,5148,1275,24441
+True,57105,14800,6,47008,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G41_DickerMax.png,Dicker Max,TD,5249,Germany,1944,2760,8176,4209,8438,24197
+True,45585,18094,5,48016,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/germany-G81_Pz_IV_AusfH_GuP.png,Pz. IV H Ankou,MT,4227,Germany,1173,1543,9961,5010,471,24151
+True,63809,28420,7,65046,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F69_AMX13_57_100.png,AMX 13 57,LT,8837,France,1637,3807,14187,5230,11082,23981
+True,53761,16540,5,47061,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R78_SU_85I.png,SU-85I,TD,4793,USSR,1222,1814,8207,4170,1806,23913
+True,14353,26793,7,71515,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G85_Auf_Panther.png,Aufkl.Panther,LT,12778,Germany,2130,8066,15382,5135,596,23876
+True,57169,17951,6,48038,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB95_Ekins_Firefly_M4A4.png,Firefly VC,MT,4663,UK,1355,2661,9419,4463,3999,22761
+True,52769,9689,3,35791,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A43_M22_Locust.png,Locust,LT,2661,USA,399,1139,8665,5399,732,22301
+True,49169,14896,6,46297,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G136_Tiger_131.png,Tiger 131,HT,5224,Germany,1551,3921,9895,4756,9596,22254
+True,61217,23503,6,54602,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A123_T78.png,T78,TD,6447,USA,2325,2402,9652,3933,14333,22248
+True,54545,17617,5,46610,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G46_T-25.png,Pz. T 25,MT,4989,Germany,1210,2116,9367,4398,1642,21886
+True,50817,7510,3,31015,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/sweden-S34_Lago_M38.png,Lago M38,LT,955,Sweden,406,868,7722,5398,517,21681
+True,53585,21410,5,47440,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB68_Matilda_Black_Prince.png,Matilda BP,MT,2764,UK,1022,1611,9330,4258,670,21652
+True,64817,18586,6,51113,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch24_Type64.png,Type 64,LT,8345,China,1544,2531,12107,5128,22363,21650
+True,60929,368,3,24883,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R105_BT_7A.png,BT-7 art.,LT,2435,USSR,34,595,7556,6524,1387,21484
+True,58945,11652,5,41079,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/france-F124_AMX_13FL11.png,AMX 13 FL 11,LT,6280,France,1382,1744,9197,4792,5977,21402
+True,53841,18922,6,51150,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB63_TOG_II.png,TOG II*,HT,6766,UK,1414,4109,10140,4232,2333,21351
+True,57361,14701,6,44484,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G77_PzIV_Schmalturm.png,Pz. IV S.,MT,6462,Germany,1177,2009,9207,4411,2033,21312
+True,63297,30841,7,65578,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F69_AMX13_57_100_GrandFinal.png,AMX 13 57F,LT,9661,France,1726,3822,14129,4579,4433,21253
+True,52321,17495,6,46847,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J19_Tiger_I_Jpn.png,HT No. VI,HT,4270,Japan,1765,3901,9840,4449,5414,21181
+True,55889,16473,6,47344,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB85_Cromwell_Berlin.png,Cromwell B,MT,6974,UK,1281,2862,11022,4897,14549,21033
+False,7233,8551,7,36010,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F24_Lorraine155_50.png,Lorr. 155 50,SPG,4232,France,992,2199,5629,3287,4078,21026
+True,61249,18798,5,46260,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F112_M10_RBFM.png,M10 RBFM,TD,5304,France,1109,1379,8565,3847,20430,20777
+True,33,28883,5,54937,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A21_T14.png,T14,HT,3119,USA,1687,2258,11789,4436,2131,20675
+True,60993,19230,6,47496,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F85_M4A1_FL10.png,M4A1 FL 10,MT,5082,France,1387,2631,9268,4010,7394,20552
+True,51585,17377,6,45733,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S01_Strv_74_A2.png,Strv m/42-57,MT,5326,Sweden,1363,2509,9054,4062,8319,20520
+True,60737,18526,6,46836,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F113_Bretagne_Panther.png,Bret. Panther,MT,4727,France,1289,3331,9454,4087,5616,20250
+False,1793,10181,7,37203,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R15_S-51.png,S-51,SPG,4431,USSR,1247,2517,5957,3213,5653,20072
+False,5649,4521,5,28841,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G23_Grille.png,Grille,SPG,3254,Germany,496,995,4626,3219,5645,20070
+True,58113,20056,6,50391,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R108_T34_85M.png,T-34-85M,MT,7693,USSR,1672,2614,10593,4210,40478,20028
+True,61009,8921,4,35292,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB116_Harry_Hopkins_I.png,A25 H.H. I,LT,5430,UK,491,943,7675,4349,1125,19996
+True,56145,15648,6,44789,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB35_Sentinel_AC_IV.png,AC 4 Exp.,MT,6589,UK,1354,2643,8964,3984,966,19907
+True,47873,6546,3,28468,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R143_T_29.png,T-29,MT,1390,USSR,614,629,7639,5340,1470,19901
+True,59153,28065,5,55269,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G163_Pz_Kpfw_KW_Ir_mit_75mm_kwk40.png,Pz. KW I,HT,4889,Germany,1699,2462,11438,4108,2942,19852
+True,145,18954,6,47381,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl03_PzV_Poland.png,Pudel,MT,5277,Poland,1298,3298,9550,4001,5391,19851
+False,11345,5596,7,32238,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB29_Crusader_5inch.png,Crusader SP,SPG,4702,UK,469,2100,4960,3052,4267,19839
+False,11601,13321,9,48019,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB30_FV3805.png,FV3805,SPG,6904,UK,1264,8022,7274,2994,7409,19770
+False,16417,4433,6,29914,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A87_M44.png,M44,SPG,4419,USA,501,1326,4805,3170,10600,19735
+True,52241,19040,4,43636,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G35_B-1bis_captured.png,Pz. B2,HT,3049,Germany,674,1885,10116,4558,2986,19661
+True,33281,6545,4,31190,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/ussr-R185_T_34_L_11_1941.png,T-34 1941,MT,3404,USSR,731,1581,7616,4800,677,19659
+True,61457,18837,5,43729,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G107_PzKpfwIII_AusfK.png,Pz. III K,MT,3421,Germany,1399,1853,9297,4170,769,19617
+True,12577,21133,5,44991,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A78_M4_Improved.png,M4 Improved,MT,2707,USA,1483,1665,9798,4243,210,19485
+True,55569,30139,7,64000,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G48_E-25.png,E 25,TD,9908,Germany,1642,4494,11552,3512,21854,19458
+True,51745,19146,5,44409,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A62_Ram-II.png,Ram II,MT,3286,USA,938,2522,8849,3876,1645,19452
+True,60161,24233,6,51856,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R114_Object_244.png,Obj. 244,HT,4268,USSR,2050,4021,10514,3920,2055,19333
+False,5633,8271,6,32572,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R26_SU-8.png,SU-8,SPG,3759,USSR,807,1314,5296,3126,5426,19226
+True,2369,10574,3,31593,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F27_FCM_36Pak40.png,FCM36Pak40,TD,1318,France,761,487,5664,3444,4155,19213
+False,8977,10559,7,36618,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G49_G_Panther.png,G.W. Panther,SPG,4645,Germany,1116,2282,5867,3065,12137,19131
+False,16129,9641,7,34747,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R91_SU14_1.png,SU-14-1,SPG,3300,USSR,1158,2690,5694,3132,1750,19114
+True,58897,16038,8,54189,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G16_PzVIB_Tiger_II_FL.png,Tiger II FL,HT,4600,Germany,1295,14667,6595,2298,125,18883
+True,44033,8830,8,44489,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R20_T-44_FL.png,T-44 FL,MT,5063,USSR,588,11910,5490,2306,142,18685
+False,4129,3563,5,25721,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A18_M41.png,M41 HMC,SPG,2539,USA,505,943,4073,2957,2472,18676
+True,52481,12586,4,37446,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R31_Valentine_LL.png,Valentine II,LT,4648,USSR,503,1546,8322,4148,911,18665
+True,52737,6611,3,28525,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R67_M3_LL.png,M3 Light,LT,2489,USSR,317,795,7774,5077,147,18628
+True,54801,12022,3,33344,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G50_T-15.png,Pz. T 15,LT,2281,Germany,514,909,8099,4404,274,18131
+False,7489,11452,8,40179,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F25_Lorraine155_51.png,Lorr. 155 51,SPG,5018,France,1080,5686,5398,2421,9188,18021
+True,59665,9595,3,30422,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G100_Gtraktor_Krupp.png,Gr.Tr.,MT,2132,Germany,882,765,8104,4775,415,17928
+True,52001,9596,3,30042,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A33_MTLS-1G14.png,MTLS-1G14,LT,1866,USA,396,675,8453,5037,318,17904
+False,4161,2155,5,23240,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F22_AMX_105AM.png,AMX 13 AM,SPG,2402,France,180,939,3773,2880,1496,17743
+True,5745,7760,3,28196,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/czech-Cz29_Pzw_39.png,Pzw. 39,LT,2035,Czech,284,734,7311,4580,2877,17664
+True,51281,15830,4,38631,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB113_Matilda_LVT.png,Matilda LVT,MT,3915,UK,1332,1258,8034,3666,803,17626
+True,52225,9246,3,29430,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R34_BT-SV.png,BT-SV,LT,1723,USSR,452,870,8278,4948,177,17590
+True,51985,16378,3,36582,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G34_S35_captured.png,Pz. S35,MT,2036,Germany,647,581,8526,4098,9717,17585
+True,56577,5020,3,24349,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R86_LTP.png,LTP,LT,1375,USSR,278,502,6336,4541,136,17451
+False,11857,3122,6,27316,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB77_FV304.png,FV304,SPG,5533,UK,243,1414,4821,3044,6114,17246
+False,13393,7636,5,29919,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB44_Archer.png,Archer,TD,3061,UK,609,2016,5270,3030,308,17204
+True,54017,30808,5,57375,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R38_KV-220.png,KV-220-2,HT,6315,USSR,1694,3092,11858,3546,2865,17158
+False,2897,12322,5,35791,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB08_Churchill_I.png,Churchill I,HT,2586,UK,842,3831,7696,3666,4023,17050
+False,2577,11317,5,34232,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G13_VK3001H.png,VK 30.01 H,MT,3410,Germany,1002,2582,7040,3480,7862,16922
+True,52385,7968,3,26767,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It29_Carro_Celere_Sahariano.png,Sahariano,MT,1261,Italy,389,619,6351,4014,2540,16918
+True,59393,21858,6,46824,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R117_T34_85_Rudy.png,Rudy USSR,MT,5445,USSR,1844,2617,9216,3326,2250,16903
+True,63249,20748,5,49070,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G116_Turan_III_prot.png,Turán III PT,MT,9838,Germany,1367,1675,8977,3075,647,16807
+False,1153,9624,5,31834,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S02_Strv_M42.png,Strv m/42,MT,3236,Sweden,950,2297,6819,3572,4899,16675
+True,46097,8471,4,29167,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G151_Pz_Sfl_IC.png,Pz.Sfl. IC,TD,3048,Germany,628,1066,5644,3208,1186,16580
+True,61777,9356,3,28590,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB127_A7E3.png,A7E3,LT,2128,UK,545,679,7504,4311,912,16425
+False,7969,9944,7,34091,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A32_M12.png,M12,SPG,5342,USA,1110,2392,5334,2568,9757,16411
+False,11089,2999,5,26536,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB28_Bishop.png,Bishop,SPG,5861,UK,241,1350,4489,2761,2922,16325
+False,4625,2330,4,21313,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G22_Sturmpanzer_II.png,St.Pz. II,SPG,1936,Germany,261,890,3528,2674,158,16157
+False,3713,6775,6,30721,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S08_Ikv_65_Alt_2.png,Ikv 65 II,TD,4052,Sweden,872,3747,5824,3060,4778,16145
+True,51473,43497,5,71073,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G32_PzV_PzIV.png,Pz. V/IV,MT,9025,Germany,2286,2439,14534,3294,13928,16110
+True,11809,25739,7,55648,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A86_T23E3.png,T23E3,MT,8959,USA,1636,4840,11501,3329,813,16109
+False,4865,2273,4,19663,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R14_SU-5.png,SU-5,SPG,473,USSR,194,880,3054,2490,150,16036
+False,12113,11210,8,38125,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB79_FV206.png,FV207,SPG,5118,UK,1138,5795,5823,2443,5798,16000
+True,51457,23653,5,44221,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R32_Matilda_II_LL.png,Matilda IV,MT,2912,USSR,1482,1656,8858,3205,580,15999
+True,50945,5209,2,22591,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R125_T_45.png,T-45,LT,1062,USSR,335,355,5738,4054,257,15963
+True,43281,6031,2,23341,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G160_Pz_Kpfw_35_R_mit_T_26_Turm.png,Pz. 35 R,LT,1236,Germany,348,320,5221,3523,190,15752
+False,11793,9552,6,31254,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G40_Nashorn.png,Nashorn,TD,2630,Germany,1036,3467,5724,2857,4934,15603
+True,54353,33078,5,56594,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB51_Excelsior.png,Excelsior,HT,5258,UK,1907,2670,12602,3471,3021,15587
+False,4097,12090,8,37807,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R27_SU-14.png,SU-14-2,SPG,4895,USSR,1568,5245,5912,2435,7039,15576
+True,51713,37633,5,60224,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R33_Churchill_LL.png,Churchill III,HT,4543,USSR,1584,2475,13159,3402,10060,15573
+True,55057,19625,5,43701,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G70_PzIV_Hydro.png,Pz. IV hydr.,MT,6889,Germany,1373,1780,8869,3126,1095,15404
+False,7265,9374,6,31737,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J38_Type_95_Ji_Ro.png,Ji-Ro,TD,3704,Japan,1118,3400,5652,2717,6761,15259
+True,60481,16374,9,54269,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F114_Projet_4_1.png,Char Futur 4,MT,7338,France,1852,15486,9677,2687,46254,15069
+True,54865,116,2,16980,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB76_Mk_VIC.png,Light VIC,LT,1496,UK,0,330,4925,4361,150,15036
+False,3969,8601,7,32359,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S06_Ikv_90_Typ_B_Bofors.png,Ikv 90 B,TD,3640,Sweden,998,5120,5952,2758,4745,14997
+False,9777,17651,7,44884,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch51_BZ_58.png,BZ-58,HT,4821,China,2009,7436,9208,3072,8450,14974
+True,47633,5593,2,22640,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G139_MKA.png,MKA,LT,1775,Germany,364,395,5648,3711,548,14876
+False,2833,1819,3,18876,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G11_Bison_I.png,Bison,SPG,1705,Germany,284,497,3659,2879,202,14854
+False,16145,9514,5,28670,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G76_Pz_Sfl_IVc.png,Pz.Sfl. IVc,TD,2448,Germany,1058,1968,5334,2742,1511,14739
+False,14401,10883,9,37985,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F67_Bat_Chatillon155_55.png,B-C 155 55,SPG,4295,France,1123,8219,5775,2217,7501,14587
+False,15377,11934,8,37624,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G94_GW_Tiger_P.png,G.W. Tiger P,SPG,5380,Germany,1725,5955,5933,2263,7830,14354
+False,4257,9347,6,30853,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It27_M43_da_105_25_Bassoto.png,Bassotto,TD,4052,Italy,1071,3138,5523,2562,24016,14315
+False,1409,11691,6,34472,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S07_Strv_74.png,Strv 74,MT,3895,Sweden,1017,4733,7040,2890,12646,14151
+False,10513,28445,8,59365,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G67_VK4502A.png,VK 45.02 A,HT,4788,Germany,2789,12041,11830,2807,13837,14089
+False,4417,19219,5,37760,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F11_Renault_G1R.png,G1 R,MT,2280,France,2020,2182,8382,3125,276,14077
+False,5169,13058,6,36737,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch20_Type58.png,Type 58,MT,4451,China,1090,5179,7541,2883,6938,14048
+True,53505,11890,3,27976,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R56_T-127.png,T-127,LT,1566,USSR,477,534,6655,3327,431,13986
+True,59681,21283,6,43162,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A118_M4_Thunderbolt.png,Thunderbolt,MT,5128,USA,1346,2765,8715,2823,3006,13984
+False,3393,844,3,16292,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F21_Lorraine39_L_AM.png,Lorr. 39L AM,SPG,807,France,126,662,3077,2640,260,13978
+False,18961,8213,7,38096,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G113_SP_I_C.png,SP I C,LT,9738,Germany,1038,6237,7802,2848,2530,13906
+False,5473,10432,6,33902,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J24_Mi_To_130_tons.png,O-I,HT,4709,Japan,1960,4885,7003,2866,6478,13875
+False,3377,8348,7,33082,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch16_WZ_131.png,WZ-131,LT,4699,China,1177,6185,7327,3067,3711,13849
+False,7009,8643,5,27715,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J37_Type_3_Ho_Ni_III.png,Ho-Ni III,TD,3363,Japan,738,1861,5392,2694,4167,13847
+True,57905,7208,2,22601,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch60_Vickers_TypeB.png,Vickers 6 t,LT,1214,China,444,344,5899,3611,1171,13833
+False,7185,15625,6,38075,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G27_VK3001P.png,VK 30.01 P,HT,3543,Germany,1555,5167,8288,2990,8960,13738
+False,897,6710,4,23733,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S04_Lago_I.png,Lago,MT,1762,Sweden,509,1553,5731,3310,1969,13706
+True,55377,15645,6,40104,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB108_A46.png,A46,LT,7179,UK,1565,3667,8847,3002,1527,13612
+True,50465,21660,9,60505,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A169_PattonIII_120.png,Patton Tank,MT,10188,USA,2408,15056,11535,2592,21768,13600
+False,3409,885,3,15519,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB27_Sexton.png,Sexton II,SPG,366,UK,78,700,2800,2448,355,13568
+False,1553,13430,6,34929,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G17_JagdPzIV.png,Jg.Pz. IV,TD,4530,Germany,1274,3442,6386,2473,6143,13525
+False,5905,940,3,16307,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G19_Wespe.png,Wespe,SPG,1422,Germany,122,541,2941,2417,187,13402
+True,44801,5605,3,21558,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R161_T_116.png,T-116,LT,2077,USSR,339,544,6279,3883,395,13331
+True,55073,105,2,15658,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A93_T7_Combat_Car.png,T7 Car,LT,1816,USA,0,427,5147,4375,433,13309
+False,257,9402,5,27216,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R02_SU-85.png,SU-85,TD,2763,USSR,950,1942,5143,2477,3049,13107
+False,1633,13163,4,30030,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J09_Chi_He.png,Chi-He,MT,2438,Japan,782,1367,6813,2963,2331,13061
+False,2705,18612,7,44696,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl11_45TP_Habicha.png,45TP,HT,5715,Poland,2205,7332,9117,2658,7807,13035
+False,513,18188,7,43514,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R01_IS.png,IS,HT,4949,USSR,2416,7370,8963,2679,9394,13007
+False,3745,16350,8,43208,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It17_Progetto_CC55_mod_54.png,Progetto 54,HT,3766,Italy,1824,10184,8559,2556,5422,12907
+False,2465,14107,9,48492,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It12_Prototipo_Standard_B.png,Standard B,MT,6830,Italy,1468,14685,8988,2385,11775,12870
+False,7473,15523,6,35435,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch34_WZ131G_FT.png,WZ-131G FT,TD,3685,China,1632,3394,6351,2299,3187,12832
+True,52817,11444,4,28051,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB33_Sentinel_AC_I.png,Sentinel,MT,2628,UK,523,1190,6382,2909,121,12789
+False,8449,15389,9,42678,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R51_Object_212.png,212A,SPG,6160,USSR,1816,8410,6479,1930,9793,12718
+False,3633,19366,7,44348,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch10_IS2.png,IS-2,HT,4649,China,2658,7630,9181,2629,1575,12700
+False,18241,6738,7,31686,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F107_Hotchkiss_EBR.png,EBR Hotch.,LT,6447,France,969,5851,8715,3479,9405,12648
+False,10833,1209,4,16493,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB26_Birch_Gun.png,Birch Gun,SPG,1710,UK,79,995,2822,2152,159,12577
+True,52993,28933,4,47489,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R68_A-32.png,A-32,MT,4439,USSR,2140,1574,11470,3029,216,12542
+True,63505,4475,3,21439,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G117_Toldi_III.png,Toldi III,LT,3872,Germany,315,573,5714,3336,243,12517
+False,289,4142,3,18980,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A03_M3_Stuart.png,M3 Stuart,LT,1226,USA,131,1197,4792,3134,1255,12413
+False,11025,7773,7,29467,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G43_Sturer_Emil.png,St. Emil,TD,4574,Germany,1258,4714,5230,2201,6115,12403
+False,1665,13958,7,38274,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S13_Leo.png,Leo,MT,4685,Sweden,1605,7254,7954,2572,16445,12376
+False,10817,12643,7,34220,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F35_AMX_AC_Mle1946.png,AMX AC 46,TD,3436,France,1433,5797,6550,2362,1306,12343
+False,4241,13599,7,38673,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl20_CS_44.png,CS-44,MT,5467,Poland,1559,7276,7810,2490,6160,12330
+False,7441,26890,9,61578,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G58_VK4502P.png,VK 45.02 B,HT,6094,Germany,3294,16331,11190,2228,16633,12261
+False,5217,13132,7,37570,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J28_O_I_100.png,O-Ni,HT,3289,Japan,1860,8973,7755,2513,1393,12174
+False,17985,6627,6,27942,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F109_AMD_Panhard_178B.png,AMD 178B,LT,5444,France,675,3713,7443,3238,6342,12156
+False,16161,14352,9,42120,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A88_M53_55.png,M53/M55,SPG,7579,USA,1717,8032,6286,1814,29477,12155
+False,1137,10716,5,27674,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz09_T_24.png,Škoda T 24,MT,2566,Czech,1013,2305,6300,2751,2601,12086
+True,53537,9285,2,23120,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A74_T1_E6.png,T1E6,LT,1442,USA,372,412,6784,3515,104,11979
+False,19457,10007,7,35390,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R131_Tank_Gavalov.png,LTG,LT,6976,USSR,1285,6503,7529,2532,3227,11902
+False,3617,1374,3,16971,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A16_M7_Priest.png,M7 Priest,SPG,3003,USA,163,699,3218,2255,145,11893
+False,4689,15358,6,37296,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB09_Churchill_VII.png,Churchill VII,HT,4231,UK,1121,5865,7629,2422,6289,11839
+False,1681,5868,3,19376,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl06_10TP.png,10TP,LT,783,Poland,492,903,5509,3361,527,11821
+False,3457,8802,5,26673,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S14_Ikv_103.png,Ikv 103,TD,3942,Sweden,1429,2160,5325,2349,1906,11767
+True,48129,24044,6,42160,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R140_M4_Loza.png,Loza's M4-A2,MT,3579,USSR,1600,2773,8704,2428,669,11762
+False,2193,11431,5,28073,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl12_25TP_KSUST_II.png,25TP,MT,2752,Poland,959,2197,6588,2744,2394,11692
+True,54529,8283,2,21403,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R84_Tetrarch_LL.png,Tetrarch,LT,1077,USSR,479,374,6273,3419,359,11667
+True,46353,18492,9,51027,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G147_Kunze_Panzer.png,Kunze Panzer,MT,7038,Germany,2003,13830,9028,2064,21592,11665
+False,2625,14601,6,34589,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F06_ARL_44.png,ARL 44,HT,3813,France,1944,4515,7811,2633,4615,11659
+False,2449,12190,6,32743,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl10_40TP_Habicha.png,40TP,MT,4111,Poland,1403,4796,6691,2379,4264,11645
+False,20241,6616,8,35636,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G126_HWK_12.png,HWK 12,LT,8617,Germany,969,8774,7513,2451,4160,11628
+False,8721,14192,9,39878,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G45_G_Tiger.png,G.W. Tiger,SPG,4957,Germany,1893,9118,6135,1786,6016,11610
+False,11265,17546,6,37396,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R72_T150.png,T-150,HT,4134,USSR,2056,4166,7821,2415,6745,11549
+False,11841,12472,10,49170,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F38_Bat_Chatillon155_58.png,B-C 155 58,SPG,6571,France,1131,18605,7420,1738,13067,11521
+True,34593,18403,3,33389,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A148_Convertible_Medium_Tank_T3.png,T3 Convert.,MT,2228,USA,554,1262,10053,3461,1184,11494
+False,3233,14610,7,37142,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It16_Carro_d_assalto_P88.png,Carro P.88,HT,3618,Italy,1546,7438,7473,2308,2122,11475
+True,55121,33193,7,60346,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB52_A45.png,FV201 (A45),HT,8282,UK,2202,7439,11888,2252,623,11431
+False,9985,16226,8,41513,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R58_SU-101.png,SU-101,TD,4964,USSR,2178,8947,8225,2253,5701,11375
+False,3841,488,2,12657,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R16_SU-18.png,SU-18,SPG,537,USSR,37,288,2801,2510,237,11343
+False,5185,12155,7,36535,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F16_AMX_13_75.png,AMX 13 75,LT,6504,France,1227,6611,8232,2538,8322,11264
+False,1041,9150,5,27053,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G05_StuG_40_AusfG.png,StuG III G,TD,4550,Germany,817,2150,5119,2119,5977,11201
+False,849,10313,4,25662,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB07_Matilda.png,Matilda,MT,2780,UK,446,1373,5192,2265,8908,11195
+False,4641,1902,4,19857,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A17_M37.png,M37,SPG,5877,USA,159,927,3277,1840,180,11149
+False,59729,9464,7,34835,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB104_GSR_3301_Setter.png,Setter,LT,8043,UK,1141,6236,7500,2387,3296,11091
+False,641,4801,3,18045,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S12_Strv_M40.png,Strv m/40L,LT,1473,Sweden,215,747,4430,2706,856,11022
+False,7457,12186,8,34992,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A37_M40M43.png,M40/M43,SPG,6311,USA,1689,5480,5277,1661,15958,11013
+False,3361,20714,5,38666,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A09_T1_hvy.png,T1 Heavy,HT,3477,USA,1278,3464,7884,2245,8162,11010
+False,2561,14257,6,34508,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R07_T-34-85.png,T-34-85,MT,4519,USSR,1411,4730,7420,2365,9823,11001
+False,15121,667,2,13956,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G93_GW_Mk_VIe.png,G.Pz. Mk. VI,SPG,1982,Germany,122,379,2828,2214,112,10927
+False,4913,12035,6,33242,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch15_59_16.png,59-16,LT,6346,China,1139,3949,7507,2464,4244,10911
+False,6657,15164,7,38136,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R23_T-43.png,T-43,MT,4787,USSR,1295,7298,7689,2194,3756,10886
+True,33025,28467,5,46096,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R186_KV_1_Screened.png,KV-1Sh,HT,3965,USSR,1696,2780,9293,2194,775,10883
+False,14417,12985,6,31103,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB45_Achilles_IIC.png,Achilles,TD,3138,UK,1060,4121,6026,2104,5717,10858
+False,1185,7916,4,21857,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It07_P26_40.png,P26/40,MT,1694,Italy,615,1408,4772,2366,4120,10838
+False,161,3823,1,14643,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It04_Fiat_3000.png,Fiat 3000,LT,0,Italy,235,0,3717,2746,196,10819
+False,881,9019,4,24216,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz11_V_8_H.png,ST vz. 39,MT,3076,Czech,531,1366,5358,2379,905,10753
+False,9521,18145,8,46769,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch50_BZ_166.png,BZ-166,HT,6923,China,2590,10960,9839,2259,7985,10739
+False,3585,14842,6,33147,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R17_SU-100.png,SU-100,TD,5200,USSR,1997,2392,6018,1944,8778,10711
+False,9233,17001,10,52285,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G61_G_E.png,G.W. E 100,SPG,7523,Germany,2097,17074,8019,1638,10893,10686
+False,5793,7852,5,23954,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It28_Semovente_M41_Da_75_18.png,Semovente M41,TD,3496,Italy,551,2007,4500,1990,6715,10597
+False,4993,14949,8,42492,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S29_UDES_14_5.png,UDES 14 5,MT,5693,Sweden,1773,11290,7968,1980,31568,10558
+False,10769,18462,7,42393,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G57_PzVI_Tiger_P.png,Tiger (P),HT,4339,Germany,1818,9091,8281,2051,11220,10499
+False,18193,16100,5,33517,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G81_Pz_IV_AusfH.png,Pz. IV H,MT,4463,Germany,1636,2460,7269,2275,6397,10493
+False,7681,651,3,13860,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R66_SU-26.png,SU-26,SPG,2082,USSR,37,683,2658,2003,447,10441
+False,6241,22981,7,46320,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J32_Chi_To_SPG.png,Chi-To SP,TD,6750,Japan,2253,6273,8329,1854,27191,10315
+False,20769,16497,7,37144,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A147_M_II_Y.png,M-II-Y,HT,3187,USA,1744,7177,7389,2045,4329,10281
+True,27921,19993,5,38657,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G170_PzKpfwIV_Ausf_F2.png,Pz. IV F2,MT,6619,Germany,1396,1820,8081,2137,10423,10224
+False,20257,11699,4,26327,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A129_T6_medium.png,T6 Medium,MT,2937,USA,1197,1508,5795,2241,4802,10181
+False,23041,6215,3,18386,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R174_BT-5.png,BT-5,LT,1076,USSR,285,917,5354,2963,780,10176
+True,29441,18977,5,36585,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R202_SU_2_122.png,SU-2-122,TD,5968,USSR,2924,1529,7560,2089,1949,10109
+False,2913,20340,4,35857,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J06_Ke_Ho.png,Ke-Ho,LT,4253,Japan,1103,1171,7456,2098,2456,10092
+False,4945,4388,3,17472,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB04_Valentine.png,Valentine,LT,2268,UK,232,765,3806,2189,2000,10050
+False,11009,24030,8,53059,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R73_KV4.png,KV-4,HT,5891,USSR,2633,13110,10883,2056,4945,10027
+False,2817,17202,6,34725,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R106_KV85.png,KV-85,HT,3267,USSR,2307,4279,7652,2198,2653,9975
+False,14913,5503,4,17294,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F70_SARL42.png,SARL 42,MT,626,France,352,1207,3285,1891,810,9957
+False,6449,4772,2,15905,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch30_T-26G_FT.png,T-26G FT,TD,844,China,245,340,3299,2063,116,9947
+False,14145,12502,5,33319,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F62_ELC_AMX.png,AMX ELC bis,LT,9000,France,1824,1873,6756,2016,12277,9943
+False,15633,1331,4,16367,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G95_Pz_Sfl_IVb.png,Pz.Sfl. IVb,SPG,4034,Germany,122,1075,2743,1663,244,9926
+False,1937,6960,4,20244,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl07_14TP.png,14TP,LT,1924,Poland,500,1454,4835,2365,1607,9905
+False,14657,1913,4,17325,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F66_AMX_Ob_Am105.png,AMX 105 AM,SPG,4802,France,180,775,2783,1579,152,9834
+False,6961,9117,4,22221,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch32_SU-76G_FT.png,SU-76G FT,TD,2035,China,855,1235,4381,1938,1316,9832
+False,5889,21256,7,43281,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R39_KV-3.png,KV-3,HT,5248,USSR,2738,6946,8463,1922,4959,9830
+False,6465,12730,6,34071,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F15_AMX_12t.png,AMX 12 t,LT,7729,France,1398,3785,7458,2150,14079,9825
+False,6993,3163,2,13758,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB69_Cruiser_Mk_II.png,Cruiser II,LT,333,UK,168,451,3475,2478,274,9810
+False,4225,13678,8,36522,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S21_UDES_03.png,UDES 03,TD,5640,Sweden,1754,7402,6240,1674,15414,9800
+False,1569,21052,7,42767,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A07_T20.png,T20,MT,4974,USA,2068,6951,8029,1837,6477,9789
+False,81,3253,1,13039,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB01_Medium_Mark_I.png,Medium I,MT,0,UK,310,0,3080,2311,163,9785
+False,6977,16044,7,38279,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F07_AMX_M4_1945.png,AMX M4 45,HT,3584,France,1747,8934,7638,1939,5350,9717
+False,59473,10900,8,37008,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB102_LHMTV.png,LHMTV,LT,7924,UK,1771,8523,7835,2045,5668,9660
+False,20481,20095,8,45114,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R139_IS_M.png,IS-M,HT,4727,USSR,2566,10642,9279,1984,3595,9648
+False,10001,11407,6,28924,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G66_VK2801.png,VK 28.01,LT,4325,Germany,1138,3589,6612,2195,3110,9602
+True,3169,5913,2,16471,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J02_Te_Ke.png,Te-Ke,LT,661,Japan,419,305,4458,2596,239,9592
+False,3697,17455,7,39165,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/czech-Cz19_Vz_44_1.png,Vz. 44-1,HT,4057,Czech,2068,8079,7695,1881,4244,9573
+False,5249,23033,9,54404,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S27_UDES_16.png,UDES 16,MT,6739,Sweden,2461,15143,9922,1730,34287,9487
+False,15889,14661,6,34243,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G96_VK3002M.png,VK 30.02 M,MT,4597,Germany,1080,5497,7086,1963,10885,9487
+False,2145,6134,3,18157,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J07_Chi_Ha.png,Chi-Ha,LT,1639,Japan,388,906,4409,2301,401,9477
+False,2081,601,2,10731,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A107_T1_HMC.png,T1 HMC,SPG,387,USA,53,295,2296,2021,111,9445
+False,14161,16231,7,35238,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB41_Challenger.png,Challenger,TD,3789,UK,1546,5779,6560,1756,6659,9436
+False,10065,15166,7,34791,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB75_AT7.png,AT 7,TD,2867,UK,1339,7347,6478,1752,1731,9410
+True,37889,15880,5,32755,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R197_KV_1S_MZ.png,KV-1SA,HT,4328,USSR,1205,3146,7212,2069,7067,9398
+False,7729,14336,7,33020,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch35_T-34-2G_FT.png,T-34-2G FT,TD,4463,China,1754,4875,5768,1632,2899,9345
+False,10497,13620,6,34573,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R77_KV2.png,KV-2,HT,7545,USSR,2733,4122,6932,1861,15874,9285
+False,1377,12600,5,28654,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J08_Chi_Nu.png,Chi-Nu,MT,4554,Japan,1039,2236,6193,2002,1717,9263
+False,1953,15565,7,34979,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It09_P43_ter.png,P.43 ter,MT,2886,Italy,1858,7315,7181,1891,3333,9212
+False,20305,15144,6,33856,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB122_Staghound_Mk_III.png,Staghound,MT,4967,UK,1096,4537,7259,1974,8874,9207
+False,16385,5398,5,21496,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R100_SU122A.png,SU-122A,SPG,5785,USSR,751,1118,3431,1467,1646,9194
+False,769,6977,4,20154,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R03_BT-7.png,BT-7,LT,2177,USSR,388,1818,5042,2297,1358,9181
+False,3441,17116,8,41534,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/czech-Cz18_TNH_105_1000.png,TNH 105/1000,HT,4397,Czech,2176,10889,8698,1912,6038,9130
+False,1105,13877,6,33478,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB21_Cromwell.png,Cromwell,MT,5985,UK,1072,4565,7528,2035,8846,9050
+False,9553,16278,6,34440,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB74_AT8.png,AT 8,TD,4557,UK,1204,4595,6433,1682,4671,9009
+False,18449,8427,9,40677,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G103_RU_251.png,Ru 251,LT,9364,Germany,1176,13885,8692,1923,7732,8999
+False,113,3572,1,12507,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz06_Kolohousenka.png,K-housenka,LT,0,Czech,234,0,2685,1918,448,8934
+False,7761,4990,3,16070,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB58_Cruiser_Mk_III.png,Cruiser III,LT,1280,UK,201,894,4849,2687,394,8904
+False,18753,9199,9,40971,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F100_Panhard_EBR_90.png,EBR 90,LT,11511,France,1296,11388,9428,2041,14226,8871
+False,7217,15524,5,29101,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch33_60G_FT.png,60G FT,TD,2257,China,1340,2449,5678,1730,1209,8869
+False,12545,16208,7,38510,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R59_A44.png,A-44,MT,6210,USSR,1940,7234,7647,1759,1197,8857
+False,4481,20038,9,47411,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S10_Strv_103_0_Series.png,Strv 103-0,TD,7274,Sweden,1997,11257,7556,1409,14438,8841
+False,13121,8704,3,19439,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F44_Somua_S35.png,Somua S35,MT,1194,France,463,739,4425,2003,899,8800
+False,2321,21038,6,40639,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G15_VK3601H.png,VK 36.01 H,HT,5748,Germany,1899,5057,8352,1807,11181,8794
+False,3729,17382,5,34343,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl17_DS_PZlnz.png,DS PZInż,MT,5938,Poland,1525,2257,7340,1873,2049,8765
+False,6945,14812,5,29306,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A30_M10_Wolverine.png,Wolverine,TD,3732,USA,986,2029,5690,1695,10309,8732
+False,2961,24173,8,50179,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl13_53TP_Markowskiego.png,53TP,HT,6728,Poland,2835,10596,10076,1743,13539,8680
+False,19473,29265,10,73081,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G134_PzKpfw_VII.png,Pz.Kpfw. VII,HT,10135,Germany,3294,25064,13082,1542,10944,8616
+False,2049,12232,5,30705,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R12_A-20.png,A-20,LT,7674,USSR,722,2191,7381,2069,1893,8607
+False,929,5743,3,16419,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It03_M15_42.png,M15/42,MT,1262,Italy,280,881,3708,1927,958,8533
+False,8241,28600,9,60172,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch37_WZ111G_FT.png,WZ-111G FT,TD,9638,China,3924,13426,9688,1369,6101,8506
+False,20513,15765,6,32687,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A142_Pawlack_Tank.png,Pawlack Tank,HT,3772,USA,1665,4652,7360,1913,5935,8497
+False,19745,11833,7,32498,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A112_T71E2R.png,T71 CMCD,LT,5742,USA,1446,6447,7834,2043,1746,8475
+False,5153,8606,4,22157,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A22_M5_Stuart.png,M5 Stuart,LT,3318,USA,392,1761,4613,1763,1244,8472
+False,4369,14758,4,28305,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G10_PzIII_AusfJ.png,Pz. III J,MT,3592,Germany,847,1491,6635,1983,3539,8462
+False,6721,21973,5,39979,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F05_BDR_G1B.png,BDR G1 B,HT,6633,France,2435,2933,7866,1660,2545,8438
+False,9249,16162,7,33598,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A64_T25_AT.png,T25 AT,TD,4009,USA,1921,4987,6043,1517,14379,8438
+True,43329,6203,2,17231,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F111_AM39_Gendron_Somua.png,AM Gendron,LT,2400,France,318,231,4368,2128,196,8395
+False,1697,16523,6,34397,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It10_P43_bis.png,P.43 bis,MT,4832,Italy,1816,4672,7029,1710,6239,8369
+False,8705,19319,10,52424,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R52_Object_261.png,Obj. 261,SPG,8771,USSR,1997,15967,7940,1267,28923,8366
+False,529,21750,7,46399,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G04_PzVI_Tiger_I.png,Tiger I,HT,6738,Germany,2224,9548,9240,1665,12558,8361
+False,1649,13622,7,34893,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz05_T34_100.png,T-34/100,MT,5869,Czech,1575,7065,7070,1689,5626,8336
+True,57681,16756,6,35008,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB96_Excalibur.png,Excalibur,TD,5167,UK,1147,4770,6691,1589,5160,8313
+False,1921,18613,8,43014,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S18_EMIL_1951_E1.png,Emil I,HT,6330,Sweden,2202,9775,8588,1656,5091,8295
+False,3857,15465,7,33104,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G18_JagdPanther.png,JPanther,TD,4258,Germany,1902,5113,6224,1554,5872,8266
+False,8017,6108,4,17021,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB42_Valentine_AT.png,Valentine AT,TD,1480,UK,427,1168,3278,1591,1302,8263
+False,7201,15482,6,32092,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A31_M36_Slagger.png,Jackson,TD,4470,USA,1593,3948,5989,1528,14611,8190
+True,52497,12797,2,22792,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G33_H39_captured.png,Pz. 38H,LT,1531,Germany,535,283,5309,1905,1816,8179
+False,129,3745,1,11893,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S05_Strv_M21_29.png,Strv fm/21,LT,0,Sweden,169,0,2387,1635,516,8148
+False,6673,9433,3,19173,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G20_Marder_II.png,Marder II,TD,916,Germany,840,694,4106,1741,909,8129
+False,2593,21316,9,52416,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A14_T30.png,T30,TD,9483,USA,3386,13512,9311,1439,26939,8104
+False,18689,17606,6,36395,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R13_KV-1s.png,KV-1S,HT,5703,USSR,1482,4993,7858,1747,5960,8092
+False,4113,17323,7,37130,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G24_VK3002DB.png,VK 30.02 D,MT,5256,Germany,1506,6524,7277,1572,6889,8025
+False,6433,2469,3,13444,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A109_T56_GMC.png,T56 GMC,TD,2164,USA,207,804,2923,1740,158,8006
+False,58705,13356,9,43585,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB103_GSOR3301_AVR_FS.png,GSOR,LT,10400,UK,2045,11822,8615,1582,5669,8006
+False,21505,21124,9,51776,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R96_Object_430.png,Obj. 430,MT,7264,USSR,2224,15467,9564,1463,9235,7920
+False,6401,5999,4,16272,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R24_SU-76.png,SU-76M,TD,1210,USSR,471,1233,3363,1618,1296,7829
+False,22785,19242,8,43176,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R170_IS_2_II.png,IS-2-II,HT,5219,USSR,2019,10891,9006,1631,4912,7822
+False,7985,16722,8,39417,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch36_WZ111_1G_FT.png,WZ-111-1 FT,TD,5685,China,2361,9197,6673,1322,3354,7811
+False,10049,14348,5,27682,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F33_S_35CA.png,S35 CA,TD,3682,France,1376,1854,4739,1334,1174,7796
+False,6161,15462,4,29286,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G25_PzII_Luchs.png,Luchs,LT,4444,Germany,398,1600,6342,1684,5959,7779
+True,47121,31846,9,67382,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G144_Kpz_50t.png,Kpz 50 t,MT,12758,Germany,2364,15120,11835,1344,9192,7656
+False,16641,11964,6,30752,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R101_MT25.png,MT-25,LT,7161,USSR,1122,4029,7185,1775,3686,7597
+False,15649,16284,7,36904,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A103_T71E1.png,T71 DA,LT,6887,USA,1453,6199,8035,1640,5365,7533
+False,5697,19731,9,49378,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F75_Char_de_25t.png,B-C 25 t AP,MT,8212,France,2163,13926,10174,1547,7011,7508
+False,9793,6797,4,16804,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F32_Somua_Sau_40.png,SAu 40,TD,1143,France,881,1407,3385,1502,740,7456
+False,1297,16247,7,36480,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G03_PzV_Panther.png,Panther,MT,5528,Germany,1088,7256,7274,1485,8149,7448
+False,20049,18040,5,33573,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB124_AEC_Armoured_Car.png,AEC,MT,5941,UK,1015,2162,7254,1605,5361,7429
+False,17473,9037,8,33206,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F87_Batignolles-Chatillon_12t.png,B-C 12 t,LT,8158,France,1226,8637,7958,1767,16157,7372
+False,18497,8295,8,31984,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F110_Lynx_6x6.png,Lynx 6x6,LT,8527,France,1335,7809,8350,1919,15717,7352
+False,5201,4549,1,11892,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB03_Cruiser_Mk_I.png,Cruiser I,LT,0,UK,266,0,2827,1746,306,7343
+True,50977,12323,6,30163,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A134_M24E2_SuperChaffee.png,Super Chaffee,LT,6590,USA,1292,3907,7177,1746,8038,7341
+False,2881,7051,4,17594,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F14_AMX40.png,AMX 40,LT,2181,France,677,1027,3857,1607,951,7333
+False,17937,7755,4,18082,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G101_StuG_III.png,StuG III B,TD,1801,Germany,751,1220,3725,1505,1998,7304
+False,1441,15821,5,29519,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It11_P43.png,P.43,MT,4278,Italy,1197,2116,6162,1524,2489,7302
+False,4657,20788,5,33766,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch21_T34.png,Type T-34,MT,3500,China,1192,2302,7435,1580,3225,7175
+False,20561,17905,7,38397,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB126_FSV_Scheme_A.png,FSV Sch. A,MT,6945,UK,1376,6437,7330,1357,13954,7109
+False,1889,14838,6,29895,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J10_Chi_To.png,Chi-To,MT,2930,Japan,1113,5025,6143,1459,1914,7100
+False,8737,20879,9,49784,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A40_T95.png,T95,TD,8100,USA,3232,13718,8397,1195,36553,7086
+False,19729,22351,8,47304,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G115_Typ_205B.png,VK 100.01 P,HT,6006,Germany,2834,11889,8965,1337,12373,7056
+False,3121,18453,4,31027,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch09_M5.png,M5A1 Stuart,LT,3740,China,944,1808,6459,1462,4916,7025
+False,14097,19650,6,36791,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G87_VK3002DB_V1.png,VK 30.01 D,MT,5172,Germany,1416,4942,7503,1432,2397,7025
+True,25617,14986,6,33581,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/germany-G158_VK2801_105_SPXXI.png,VK 28.01 105,LT,7947,Germany,2218,3642,8254,1721,20640,7004
+False,5457,15550,7,34533,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB22_Comet.png,Comet,MT,5604,UK,1085,6375,7117,1443,4733,7003
+False,3665,14238,6,28335,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB19_Sherman_Firefly.png,Firefly,MT,2637,UK,1187,4524,5598,1370,788,6935
+False,18433,8039,8,32647,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R107_LTB.png,LTTB,LT,8477,USSR,1183,9195,7751,1646,4994,6934
+False,10241,17293,7,33333,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R74_SU100M1.png,SU-100M1,TD,3737,USSR,1835,5459,6468,1327,4643,6843
+False,4881,13076,3,22215,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G102_Pz_III.png,Pz. III E,LT,1483,Germany,614,817,5935,1826,2744,6837
+False,5377,21492,8,45977,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R19_IS-3.png,IS-3,HT,6879,USSR,2831,10786,9155,1357,19109,6819
+False,5713,24286,9,54883,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB24_Centurion_Mk3.png,Centurion 7/1,MT,9505,UK,2267,14428,10157,1233,18045,6662
+False,5505,27336,10,67159,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S28_UDES_15_16.png,UDES 15/16,MT,11193,Sweden,2412,21980,12201,1208,34265,6649
+False,20737,27506,9,57849,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R153_Object_705.png,Obj. 705,HT,6756,USSR,3054,16948,10544,1209,5144,6637
+True,50689,28598,10,64779,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R126_Object_730_5.png,Obj. 268 5,TD,10703,USSR,3826,18849,10292,1053,2379,6628
+False,2721,17153,10,54506,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It08_Progetto_M40_mod_65.png,Progetto 65,MT,9328,Italy,1578,21428,10118,1224,13885,6597
+False,2161,23122,9,52066,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz02_TVP_T50.png,Škoda T 50,MT,8144,Czech,1999,14212,9660,1221,22800,6586
+False,9041,15610,4,26212,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB57_Alecto.png,Alecto,TD,2763,UK,817,1312,4754,1183,908,6526
+False,15137,18211,6,36234,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A71_T21.png,T21,LT,7676,USA,1492,3842,7754,1392,2496,6504
+True,25873,19180,9,44164,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G159_KPZ_3_Project_07_HK.png,KPz 3 Pr.07HK,TD,6516,Germany,1944,12010,7149,1045,8481,6457
+False,545,5626,1,12048,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A01_T1_Cunningham.png,T1,LT,0,USA,251,0,3051,1626,293,6421
+False,7505,17797,4,28434,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB59_Cruiser_Mk_IV.png,Cruiser IV,LT,2569,UK,678,1688,6805,1526,3395,6378
+False,369,8812,2,17688,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz03_LT_vz35.png,LT vz. 35,LT,2017,Czech,412,519,3959,1418,280,6339
+False,8193,18555,9,42340,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R53_Object_704.png,Obj. 704,TD,6558,USSR,2992,10900,6813,1017,6799,6326
+False,1073,17903,7,37252,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch04_T34_1.png,T-34-1,MT,5729,China,1867,7301,7052,1196,2194,6318
+False,4401,9203,3,17573,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch08_Type97_Chi_Ha.png,Chi-Ha,LT,1398,China,528,695,4066,1452,459,6276
+True,60689,17087,5,29009,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G104_Stug_IV.png,StuG IV,TD,3424,Germany,1217,2246,5691,1226,2462,6250
+False,4513,16193,7,35040,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It26_CC_56.png,SMV CC-56,TD,4651,Italy,1954,7948,6533,1164,24742,6247
+False,3489,23188,9,50488,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It19_Progetto_C50_mod_66.png,Progetto 66,HT,5531,Italy,2459,15545,9568,1179,7982,6223
+False,3329,5251,1,11433,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R11_MS-1.png,MS-1,LT,0,USSR,331,0,2451,1325,422,6181
+False,2129,14433,6,31465,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB20_Crusader.png,Crusader,LT,7013,UK,1005,3848,7242,1420,2720,6169
+False,14673,18573,8,38695,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB80_Charioteer.png,Charioteer,TD,5965,UK,2116,7988,6876,1096,15833,6168
+False,1393,17474,6,32627,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz08_T_25.png,Škoda T 25,MT,4321,Czech,1237,4728,7032,1315,12972,6103
+False,11777,22675,5,36471,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R80_KV1.png,KV-1,HT,4492,USSR,1740,3239,7567,1258,11463,6063
+True,43841,7321,2,15303,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F42_AMR_35.png,AMR 35,LT,1561,France,309,358,3976,1574,155,6061
+False,7425,15435,8,37379,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R47_ISU-152.png,ISU-152,TD,6440,USSR,2835,9454,6406,1036,9792,6048
+False,8481,16700,10,49842,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A38_T92.png,T92 HMC,SPG,9574,USA,2533,17574,7612,915,13475,5992
+False,14865,24903,9,54025,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G91_Pro_Ag_A.png,Leopard PT A,MT,9509,Germany,2592,13625,9349,1035,45704,5986
+False,3601,6143,2,14497,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G21_PanzerJager_I.png,Pz.Jäg. I,TD,2151,Germany,321,243,3157,1297,359,5958
+False,12097,19383,8,40431,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F36_AMX_AC_Mle1948.png,AMX AC 48,TD,6195,France,2378,8956,7568,1103,3716,5896
+False,11585,17908,6,32187,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F34_ARL_V39.png,ARL V39,TD,4781,France,2092,3641,5875,1068,2363,5855
+False,6177,5123,2,13577,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A46_T3.png,T3 HMC,TD,2129,USA,337,550,3758,1598,204,5773
+False,3105,15825,4,25790,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A04_M3_Grant.png,M3 Lee,MT,2512,USA,1184,1680,5572,1247,122,5772
+False,16673,13931,6,31582,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A94_T37.png,T37,LT,7971,USA,1299,3947,7119,1291,2760,5731
+False,9265,27651,9,59263,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch49_BZ_68.png,BZ-68,HT,9787,China,3453,16132,11381,1093,11618,5692
+False,3873,26859,7,45421,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A11_T29.png,T29,HT,6230,USA,2865,6659,8957,1118,14555,5671
+False,9761,19723,5,37755,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A34_M24_Chaffee.png,Chaffee,LT,10383,USA,1729,2010,8019,1197,2571,5639
+False,3649,19208,10,60619,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F18_Bat_Chatillon25t.png,B-C 25 t,MT,14377,France,1967,21399,11889,1104,17320,5633
+False,2865,23736,8,45601,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch11_110.png,110,HT,5350,China,2560,10886,9599,1184,1262,5627
+False,19009,10644,10,49976,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F108_Panhard_EBR_105.png,EBR 105,LT,18275,France,1673,15467,10922,1221,71999,5589
+False,3985,16155,6,32415,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl18_BUGI.png,B.U.G.I.,MT,5934,Poland,1985,4740,6981,1202,4900,5585
+False,21249,20164,9,48061,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R93_Object263.png,Obj. 263,TD,7255,USSR,2628,15059,8715,1012,6195,5582
+False,11521,27273,9,56411,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R81_IS8.png,T-10,HT,7670,USSR,3134,15901,10984,1083,14008,5565
+False,3201,10563,4,18964,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S19_Sav_M43.png,Sav m/43,TD,1580,Sweden,1346,1265,3677,1077,1210,5555
+False,625,6045,3,14022,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz10_LT_vz38.png,LT vz. 38,LT,1706,Czech,340,717,3687,1460,494,5552
+False,2353,8540,2,16069,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch07_Vickers_MkE_Type_BT26.png,VAE Type B,LT,1637,China,441,367,4179,1436,255,5524
+False,1425,7345,2,16093,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl09_7TP.png,7TP,LT,2590,Poland,437,634,4223,1449,282,5523
+False,8961,20622,7,36147,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R46_KV-13.png,KV-13,MT,3385,USSR,1840,6664,7152,1083,501,5474
+False,1537,22154,4,31679,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R06_T-28.png,T-28,MT,2892,USSR,1131,1223,6712,1146,5391,5410
+False,15105,8675,3,16337,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R43_T-70.png,T-70,LT,1378,USSR,457,879,3811,1260,230,5404
+False,5137,25687,8,49981,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G16_PzVIB_Tiger_II.png,Tiger II,HT,7168,Germany,2826,11725,9897,1069,17308,5400
+False,3217,29070,9,59699,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl05_50TP_Tyszkiewicza.png,50TP,HT,8489,Poland,3486,16768,10963,986,14514,5371
+False,3153,24051,7,42854,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB10_Black_Prince.png,Black Prince,HT,4479,UK,1522,9005,8397,1041,7587,5317
+False,11281,16106,4,24173,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G39_Marder_III.png,Marder 38T,TD,1634,Germany,1142,1147,4322,945,2358,5284
+True,57425,24575,8,52458,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB97_Chimera.png,Chimera,MT,11650,UK,2862,10964,9722,976,3024,5267
+False,3425,25134,9,53590,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J14_Type_61.png,Type 61,MT,8216,Japan,2171,14991,9683,948,6328,5248
+False,5393,21998,5,35264,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G26_VK1602.png,Leopard,LT,5862,Germany,472,2162,7973,1185,6736,5241
+False,6753,28717,9,57493,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J34_Ho_Ri_1.png,Ho-Ri 1,TD,9136,Japan,3651,14476,9664,867,16192,5163
+False,2305,19305,7,34659,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R18_SU-152.png,SU-152,TD,5691,USSR,3678,4524,6310,935,6474,5137
+False,11041,16508,7,30854,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A72_T25_2.png,T25/2,TD,4060,USA,1816,5150,5600,932,5490,5135
+False,16657,17735,8,38794,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G99_RhB_Waffentrager.png,Rhm.-B. WT,TD,8339,Germany,2740,7724,6474,833,25665,4994
+False,22529,33001,9,61762,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R171_IS_3_II.png,IS-3-II,HT,8371,USSR,2967,15408,11569,932,7557,4980
+False,4961,17186,8,39155,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J27_O_I_120.png,O-Ho,HT,4948,Japan,2233,12057,8555,1084,1189,4963
+False,385,8659,2,16282,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S03_Strv_M38.png,Strv m/38,LT,2143,Sweden,298,540,4330,1313,387,4938
+False,17217,12087,10,48405,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F88_AMX_13_105.png,AMX 13 105,LT,13691,France,1695,17769,10290,1032,15185,4856
+True,10289,26553,9,55623,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch59_BZ58_2.png,BZ-58-2,HT,6174,China,3312,18076,10195,883,6271,4818
+False,1,22656,5,34507,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R04_T-34.png,T-34,MT,4793,USSR,1242,2258,7295,1014,6497,4799
+False,3345,14230,3,21263,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G08_Pz38t.png,Pz. 38 (t),LT,1705,Germany,623,575,4519,1009,517,4751
+False,2177,25007,9,51514,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S17_EMIL_1952_E2.png,Emil II,HT,7849,Sweden,2678,13911,9456,871,6444,4746
+False,2945,4965,3,16312,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S20_Ikv_72.png,Ikv 72,TD,6038,Sweden,458,631,3265,936,427,4677
+False,8465,19564,8,42656,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G64_Panther_II.png,Panther II,MT,6107,Germany,1884,12318,8198,896,8873,4666
+False,1089,16722,4,25275,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F04_B1.png,B1,HT,2141,France,755,1763,5794,1065,751,4647
+False,1057,16208,5,28697,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A05_M4_Sherman.png,M4A1,MT,5584,USA,1560,2274,5944,959,3298,4629
+True,61729,29490,9,56139,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A125_AEP_1.png,AE Phase I,HT,6398,USA,2906,15778,10787,859,31449,4471
+False,3889,10007,8,32170,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch17_WZ131_1_WZ132.png,WZ-132,LT,8491,China,1598,9280,7553,1031,5157,4392
+True,43073,26657,9,53324,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/france-F115_Lorraine_50t.png,Lorraine 50 t,HT,7103,France,2995,15200,10392,850,4154,4362
+False,16449,18142,8,39723,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F81_Char_de_65t.png,AMX 65 t,HT,5636,France,2111,11603,8074,882,5079,4341
+False,1329,10169,1,14469,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch06_Renault_NC31.png,NC-31,LT,0,China,446,0,3139,932,110,4300
+False,7697,15873,8,36497,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G37_Ferdinand.png,Ferdinand,TD,4686,Germany,2168,11640,6380,751,6702,4297
+False,16401,22511,9,47873,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G97_Waffentrager_IV.png,WT auf Pz. IV,TD,9945,Germany,2738,11143,7481,667,24408,4273
+False,5409,30934,5,47888,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A23_M7_med.png,M7,LT,11009,USA,1807,1711,9706,857,508,4232
+False,2209,16351,8,37303,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It14_P44_Pantera.png,P.44 Pantera,MT,5211,Italy,1600,11616,7545,834,10936,4124
+False,1345,9723,2,15172,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F12_Hotchkiss_H35.png,H35,LT,893,France,366,532,3696,980,206,4023
+False,5969,20716,8,42777,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB23_Centurion.png,Centurion I,MT,6198,UK,1846,11881,8756,814,6629,3981
+True,56609,19416,7,33512,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A102_T28_concept.png,T28 HTC,TD,4698,USA,2446,5474,6685,782,3557,3923
+False,1841,24941,9,52859,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch18_WZ-120.png,WZ-120,MT,7906,China,2637,16105,10152,750,3633,3905
+False,5729,25973,5,37125,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J23_Mi_To.png,O-I Exp.,HT,4052,Japan,1932,3253,7556,782,881,3845
+False,3185,25728,9,53838,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/czech-Cz16_TNH_T_vz51.png,TNH T Vz. 51,HT,8152,Czech,2994,16138,10126,718,12662,3818
+False,10257,30545,9,60007,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G54_E-50.png,E 50,MT,10299,Germany,2764,15386,11301,711,22533,3775
+False,15681,24384,9,54647,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F71_AMX_30_prototype.png,AMX 30,MT,12691,France,2191,13821,9978,684,5079,3749
+False,17953,10923,8,32062,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A97_M41_Bulldog.png,M41 Bulldog,LT,8760,USA,1426,8630,7926,926,2934,3747
+False,12881,24383,5,34914,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB50_Sherman_III.png,Sherman III,MT,4556,UK,2199,2234,6845,733,585,3740
+False,4385,31235,8,53860,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A12_T32.png,T32,HT,7390,USA,2777,11558,10481,715,9773,3676
+False,8081,25979,9,52847,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl22_CS_59.png,CS-59,MT,6794,Poland,2571,16428,9855,679,9357,3644
+False,4353,20815,8,41572,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R20_T-44.png,T-44,MT,6263,USSR,2051,10871,8302,723,14739,3622
+False,4497,15805,8,36493,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl23_CS_53.png,CS-53,MT,6389,Poland,1919,10700,7496,738,7602,3596
+False,5953,7141,3,14083,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F13_AMX38.png,AMX 38,LT,2512,France,444,833,3359,857,389,3595
+True,62753,38116,9,71394,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A128_concept_1b.png,Concept 1B,HT,14255,USA,2926,15432,12837,645,7729,3589
+False,8257,4855,3,11317,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F52_RenaultUE57.png,UE 57,TD,2312,France,327,618,1935,603,411,3530
+False,11073,31796,9,54359,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F37_AMX50_Foch.png,Foch,TD,7530,France,3161,11600,9534,601,3958,3431
+True,62497,19155,7,34551,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A130_Super_Hellcat.png,Super Hellcat,TD,6322,USA,2062,5661,6482,639,21871,3410
+False,1809,14781,4,23168,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G09_Hetzer.png,Hetzer,TD,3847,Germany,2063,1149,4878,713,6069,3389
+False,12369,18319,10,49793,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB31_Conqueror_Gun.png,ConquerorGC,SPG,9692,UK,2471,18404,7511,509,7788,3376
+False,19713,27173,9,54429,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R151_Object_257_2.png,Obj. 257,HT,7739,USSR,3029,16165,10145,624,11212,3351
+False,18177,14231,9,41753,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R109_T54S.png,T-54 ltwt.,LT,11153,USSR,1951,13046,9048,719,8614,3321
+False,2977,25928,10,62248,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It15_Rinoceronte.png,Rinoceronte,HT,12604,Italy,2816,20479,11460,595,8582,3235
+False,4193,21089,9,49587,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J25_Type_4.png,Type 4 Heavy,HT,8143,Japan,3175,17170,8867,569,2827,3183
+False,4433,30477,9,58693,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB12_Conqueror.png,Conqueror,HT,8224,UK,2834,16809,11057,599,33184,3182
+False,13073,11843,3,18685,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G82_Pz_II_AusfG.png,Pz. II G,LT,2698,Germany,262,977,4896,829,401,3166
+False,17665,28524,9,52247,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R104_Object_430_II.png,Obj. 430 II,MT,6533,USSR,2642,14049,9655,580,1780,3140
+False,865,8221,2,14793,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J03_Ha_Go.png,Ha-Go,LT,2870,Japan,478,581,3983,840,293,3120
+False,21025,22042,8,39993,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A139_M_III_Y.png,M-III-Y,HT,4016,USA,1944,10828,7943,617,7783,3106
+False,6705,10974,3,17277,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch31_M3G_FT.png,M3G FT,TD,2510,China,873,703,3526,630,197,3089
+False,4929,16691,9,41464,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F17_AMX_13_90.png,AMX 13 90,LT,9660,France,2067,12029,8892,660,15687,3081
+False,6417,24455,5,38931,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G28_PzIII_IV.png,Pz. III/IV,MT,8499,Germany,1688,2902,8195,647,1995,3073
+False,9473,20855,5,32742,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R41_T-50.png,T-50,LT,6888,USSR,1212,1926,6407,601,845,3071
+False,1025,12911,2,17985,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R08_BT-2.png,BT-2,LT,1455,USSR,281,562,5076,862,489,3056
+False,15425,24599,10,61191,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F72_AMX_30.png,AMX 30 B,MT,11949,France,2106,21649,11430,559,3215,2993
+False,9745,30030,9,59448,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G55_E-75.png,E 75,HT,9947,Germany,3502,16517,10691,531,29474,2953
+True,401,3533,2,8920,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl01_TKS_20mm.png,TKS 20,LT,2236,Poland,90,202,1606,530,719,2947
+False,6497,21163,8,42018,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J33_Ho_Ri_2.png,Ho-Ri 2,TD,7362,Japan,2473,10598,7432,512,10083,2895
+True,51841,10182,2,14961,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S15_L_60.png,L-60,LT,1483,Sweden,142,411,4838,932,356,2884
+False,5681,12127,9,37826,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch28_WZ_132A.png,WZ-132A,LT,10426,China,1886,12426,8219,618,5151,2844
+False,11553,17211,6,31107,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A41_M18_Hellcat.png,Hellcat,TD,7270,USA,1911,3859,5782,514,17175,2765
+False,19793,17869,8,38663,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB125_Saladin.png,Saladin,MT,8481,UK,1742,9575,7530,532,11614,2736
+False,18209,10720,9,41996,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A100_T49.png,T49,LT,14840,USA,1992,13702,9013,586,8383,2732
+False,13841,16080,8,34163,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G88_Indien_Panzer.png,Indien-Pz.,MT,4836,Germany,1591,10549,6469,510,9685,2696
+False,673,11741,2,16106,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It06_M14_41.png,M14/41,MT,1120,Italy,596,675,3942,628,320,2568
+False,17425,19456,4,26170,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G80_Pz_IV_AusfD.png,Pz. IV D,MT,2634,Germany,1365,1576,6240,596,242,2503
+False,801,29565,6,44257,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A10_M6.png,M6,HT,7422,USA,2956,4783,9965,559,43717,2485
+False,1585,19419,8,39653,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch05_T34_2.png,T-34-2,MT,6488,China,2196,11290,7699,476,2837,2455
+True,44545,27769,9,53366,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R119_Object_777.png,Obj. 777 II,HT,5713,USSR,3116,17570,9915,429,8177,2312
+False,7953,22328,9,47277,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G44_JagdTiger.png,Jagdtiger,TD,7645,Germany,2771,15016,7884,381,10973,2287
+False,18705,25398,9,52994,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G110_Typ_205.png,Mäuschen,HT,6066,Germany,3265,19251,9559,410,5287,2277
+False,11297,18546,8,34393,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A68_T28_Prototype.png,T28 Prot.,TD,4943,USA,2294,8644,6356,417,5871,2258
+True,53793,22914,8,38559,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A81_T95_E2.png,T95E2,MT,1362,USA,1911,12031,6557,382,196,2251
+False,609,9204,1,11382,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J01_NC27.png,R. Otsu,LT,0,Japan,142,0,2378,455,358,2177
+False,11537,19175,8,37795,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G71_JagdPantherII.png,JPanther II,TD,7365,Germany,2551,9107,6757,383,2743,2147
+False,3089,12803,1,14841,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G12_Ltraktor.png,L.Tr.,LT,0,Germany,177,0,3311,454,1066,2037
+False,17169,16454,3,22700,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G83_Pz_IV_AusfA.png,Pz. IV A,MT,3271,Germany,1050,965,6444,570,287,2008
+False,8209,24269,4,32524,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G52_Pz38_NA.png,Pz. 38 nA,LT,5145,Germany,1294,1178,6439,382,3605,1930
+True,56097,31193,6,48229,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A104_M4A3E8A.png,Fury,MT,12436,USA,1832,2767,9405,357,1535,1830
+False,19985,14426,10,49184,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G125_Spz_57_Rh.png,Rhm. Pzw.,LT,12730,Germany,1775,20213,10629,392,8072,1815
+False,6913,13415,4,19611,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R25_GAZ-74b.png,SU-85B,TD,3710,USSR,1142,781,3488,303,996,1704
+False,15169,8650,2,11830,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F50_FCM36_20t.png,FCM 36,LT,1288,France,458,360,2566,332,213,1530
+False,4769,20629,8,37842,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It31_CC_67_B.png,SMV CC-67,TD,5225,Italy,2652,10510,7042,274,41204,1476
+False,1121,18676,7,33086,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J11_Chi_Ri.png,Chi-Ri,MT,5203,Japan,1226,7736,6679,296,2992,1470
+False,3921,26868,8,46828,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB11_Caernarvon.png,Caernarvon,HT,6867,UK,2241,11720,9689,283,18670,1372
+False,8993,26990,9,52735,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A63_M46_Patton.png,M46 Patton,MT,8349,USA,2594,16040,10055,258,4283,1355
+False,19489,14411,10,46926,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A116_XM551.png,Sheridan,LT,11042,USA,1968,20179,9813,270,4268,1293
+False,58961,18425,10,53492,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB100_Manticore.png,Manticore,LT,16905,UK,3185,16874,10089,242,31321,1287
+False,19201,12666,10,49067,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R132_VNII_100LT.png,T-100 LT,LT,15964,USSR,1676,19165,10111,261,21703,1270
+False,3137,24280,8,44389,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F08_AMX_50_100.png,AMX 50 100,HT,8362,France,2613,10640,9085,226,5719,1106
+False,5937,13840,10,48712,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch29_Type_62C_prot.png,WZ-132-1,LT,15345,China,1925,18422,9689,219,5127,1103
+False,5921,21162,8,38272,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A35_Pershing.png,Pershing,MT,4866,USA,1901,11191,7690,211,2856,1051
+False,10753,32874,9,58480,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R63_ST_I.png,ST-I,HT,8692,USSR,3421,15882,10473,184,6022,1030
+False,15393,29983,9,56979,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A89_T54E1.png,T54E1,HT,9049,USA,2919,16936,10821,191,6966,1010
+False,2657,17668,8,36648,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J13_STA_1.png,STA-1,MT,6079,Japan,1699,11911,7015,189,4483,989
+False,1313,21606,6,33662,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A06_M4A3E8_Sherman.png,M4A3E8,MT,6231,USA,1323,4911,6724,182,5900,912
+True,60433,19186,2,21158,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G108_PzKpfwII_AusfD.png,Pz. II D,LT,639,Germany,243,436,6022,255,176,896
+False,10017,21376,6,31156,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A36_Sherman_Jumbo.png,M4A3E2,MT,3914,USA,1470,5025,6149,165,1660,839
+False,12305,28334,10,63054,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G73_E50_Ausf_M.png,E 50 M,MT,11809,Germany,2478,22093,12214,158,17175,816
+False,8785,18935,5,26656,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB73_AT2.png,AT 2,TD,4296,UK,1066,2642,5199,152,3124,781
+False,6481,25500,5,35267,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB60_Covenanter.png,Covenanter,LT,7013,UK,922,2032,7948,162,4135,720
+False,15361,10531,2,14360,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R42_T-60.png,T-60,LT,2694,USSR,224,513,3269,141,290,620
+False,19537,25066,9,50557,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB123_GSOR_1006_v7.png,GSOR 1006/7,MT,10588,UK,2644,14376,9108,94,14604,527
+False,10529,21348,5,29615,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A58_T67.png,T67,TD,5768,USA,1366,1998,5505,92,8299,499
+False,7937,31005,9,54447,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R40_T-54.png,T-54,MT,7797,USSR,2915,15232,10468,79,12012,413
+False,1905,18977,8,37375,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz07_TVP_46.png,TVP VTU,MT,6473,Czech,1886,11571,7185,67,6207,353
+False,13137,23170,9,41691,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB81_FV4004.png,Conway,TD,6953,UK,2803,11253,7039,52,12649,313
+False,9505,33952,9,60759,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A66_M103.png,M103,HT,9562,USA,3093,17041,11456,38,10341,202
+False,4897,19544,3,23383,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A25_M2_med.png,M2 Medium,MT,2735,USA,1614,906,5957,50,513,196
+False,13313,21425,8,38666,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R60_Object416.png,Obj. 416,MT,7265,USSR,2388,9848,7531,24,2980,127
+False,14625,21255,8,37827,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A90_T69.png,T69,MT,6072,USA,1817,10374,7319,24,5725,125
+False,19217,17958,10,45856,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G121_Grille_15_L63.png,Grille 15,TD,12191,Germany,2540,15643,7432,10,40750,63
+False,8225,21196,8,38438,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A39_T28.png,T28,TD,5567,USA,2455,11664,6933,1,19586,9
+True,58673,32991,10,65837,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch25_121_mod_1971B_MK.png,Monkey King,MT,10121,China,2605,22852,11712,-22,948,-127
+False,1169,12681,1,12406,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl14_4TP.png,4TP,LT,0,Poland,226,0,2934,-65,325,-275
+True,51489,19324,2,21426,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A19_T2_lt.png,T2 Light,LT,2272,USA,226,389,6287,-164,777,-560
+False,7713,16733,4,19257,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A29_T40.png,T40,TD,2413,USA,1194,876,3689,-146,866,-764
+False,16209,21365,5,29845,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB107_Cavalier.png,Cavalier,MT,7049,UK,1341,2246,6254,-171,2027,-816
+False,2097,28237,9,52175,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch12_111_1_2_3.png,WZ-111 1-4,HT,9026,China,3173,16009,9971,-209,3790,-1098
+False,2417,28248,10,59404,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/czech-Cz04_T50_51.png,TVP T 50/51,MT,11987,Czech,2086,20356,11316,-226,33080,-1188
+False,6929,35531,10,73733,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G42_Maus.png,Maus,HT,12467,Germany,3737,26989,13879,-236,15395,-1255
+True,60241,24735,5,29808,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB37_Valliant.png,Valiant,MT,3749,UK,1723,2620,5403,-235,1092,-1296
+False,10273,22214,4,24051,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A57_M8A1.png,M8A1,TD,2078,USA,1080,1094,4348,-241,9639,-1335
+False,321,15306,3,18342,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F03_D2.png,D2,MT,3803,France,855,606,4597,-344,160,-1373
+False,14113,28417,10,62146,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A120_M48A5.png,M48 Patton,MT,12356,USA,2307,22763,11597,-259,6144,-1391
+False,16705,31946,9,55500,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F83_AMX_M4_Mle1949_Bis.png,AMX M4 51,HT,8704,France,3127,16299,10274,-268,12477,-1451
+False,3073,15223,3,20342,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R22_T-46.png,T-46,LT,5888,USSR,541,730,4870,-358,286,-1499
+False,2689,13566,2,13228,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S09_L_120_TD.png,Pvlvv fm/42,TD,858,Sweden,384,317,2965,-339,209,-1514
+False,2065,16792,2,16805,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G06_PzII.png,Pz. II,LT,1191,Germany,160,736,4560,-519,1411,-1915
+False,8497,31916,10,61950,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch38_WZ113G_FT.png,WZ-113G FT,TD,12820,China,3933,19185,10387,-330,4358,-1972
+False,9809,26235,6,38656,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB40_Gun_Carrier_Churchill.png,Churchill GC,TD,10553,UK,2862,3851,6752,-346,505,-1984
+True,32769,25281,9,42006,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R183_K_91_PT.png,K-91-PT,TD,5837,USSR,2656,12903,7138,-342,7884,-2015
+False,3905,29232,9,50849,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F09_AMX_50_120.png,AMX 50 120,HT,9141,France,3089,14661,9880,-424,5065,-2186
+False,52561,37182,9,58597,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB32_Tortoise.png,Tortoise,TD,8693,UK,2949,14938,10317,-390,17426,-2216
+True,15905,31513,10,65095,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A92_M60.png,M60,MT,12525,USA,2526,23280,11789,-402,7354,-2224
+False,4609,16446,2,16565,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R09_T-26.png,T-26,LT,2285,USSR,557,403,3652,-566,133,-2569
+False,577,14620,1,11915,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F01_RenaultFT.png,FT,LT,0,France,173,0,2656,-603,343,-2705
+False,7249,32807,10,66615,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB86_Centurion_Action_X.png,Centurion AX,MT,14247,UK,2538,22298,12585,-517,29660,-2736
+False,8529,25547,8,38684,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB72_AT15.png,AT 15,TD,4762,UK,1961,11201,7530,-550,3665,-2826
+False,21761,27892,10,61161,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R144_K_91.png,K-91,MT,14459,USSR,1901,21686,10629,-500,4069,-2877
+True,62257,40442,10,73282,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch41_WZ_111_QL.png,WZ-111 QL,HT,12724,China,3601,23227,13402,-568,604,-3111
+False,13857,26432,10,53676,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A85_T110E3.png,T110E3,TD,11258,USA,4113,19142,9710,-571,38435,-3156
+False,12817,17652,2,17082,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G53_PzI.png,Pz. I,LT,2140,Germany,181,588,4543,-877,139,-3299
+False,13825,29162,10,58365,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R87_T62A.png,T-62A,MT,10599,USSR,2361,22120,11399,-686,4777,-3516
+False,13329,33965,4,34606,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G90_DW_II.png,D.W. 2,HT,2304,Germany,1732,1926,8331,-864,743,-3590
+False,13089,25118,10,51835,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A83_T110E4.png,T110E4,TD,11571,USA,3808,18900,9163,-663,14992,-3755
+False,6193,38764,10,71318,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch41_WZ_111_5A.png,WZ-111 5A,HT,12747,China,3525,23575,13552,-715,5949,-3767
+True,45313,16517,6,28296,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R160_T_50_2.png,T-50-2,LT,7127,USSR,1218,8478,6437,-870,15789,-3826
+False,13569,23414,10,47696,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R88_Object268.png,Obj. 268,TD,10803,USSR,3274,17396,7963,-654,8452,-3917
+True,60945,38589,9,61955,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G105_T-55_NVA_DDR.png,T 55A,MT,11480,Germany,3077,16024,11605,-775,10032,-4139
+True,34817,29063,9,50187,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/ussr-R191_Object_283.png,Obj. 283,MT,10313,USSR,2904,15011,9527,-797,3754,-4200
+False,5121,10720,2,15089,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R10_AT-1.png,AT-1,TD,8129,USSR,559,525,3230,-917,186,-4285
+False,785,18752,2,18307,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G07_Pz35t.png,Pz. 35 (t),LT,3353,Germany,353,540,4155,-984,174,-4338
+False,14609,34002,10,63358,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G89_Leopard1.png,Leopard 1,MT,12837,Germany,2990,20935,11086,-772,87725,-4416
+False,12049,28007,10,53178,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G72_JagdPz_E100.png,Jg.Pz. E 100,TD,10901,Germany,5392,18687,9042,-751,38692,-4418
+False,5537,30045,9,47464,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It24_Controcarro_1_Mk2.png,CC-1 Mk. 2,TD,5834,Italy,3332,16046,8392,-788,54500,-4461
+False,16897,30371,10,60429,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R97_Object_140.png,Obj. 140,MT,12712,USSR,2309,21888,11586,-871,37644,-4543
+False,4145,34805,10,68513,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch19_121.png,121,MT,14946,China,2926,23418,12569,-854,5158,-4656
+False,7169,35152,10,71085,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R45_IS-7.png,IS-7,HT,14262,USSR,3823,26463,14360,-968,41410,-4793
+False,21281,25921,9,43289,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A144_M_VI_Y.png,M-VI-Y,HT,6400,USA,2458,15836,8483,-954,6081,-4868
+True,60497,35412,9,51751,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB106_Cobra.png,Cobra,MT,8924,UK,3758,12937,9219,-983,31854,-5523
+True,63537,31788,10,61773,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch25_121_mod_1971B.png,121B,MT,12688,China,2682,22950,11662,-1067,15901,-5654
+False,9489,34422,10,67776,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G56_E-100.png,E 100,HT,12358,Germany,4179,27018,12465,-1107,20632,-6024
+False,19969,33334,10,60868,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R148_Object_430_U.png,Obj. 430U,MT,11924,USSR,3139,22976,11328,-1371,10306,-7366
+True,60977,42008,10,69871,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/china-Ch44_114_SP2.png,114 SP2,TD,17259,China,4445,18152,10934,-1181,5402,-7548
+False,2433,34890,10,60082,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S16_Kranvagn.png,Kranvagn,HT,12019,Sweden,3095,20968,11515,-1494,9998,-7795
+True,58641,43103,10,81337,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G92_VK7201.png,VK 72.01 K,HT,17737,Germany,5229,28361,14906,-1441,6268,-7864
+False,13585,29372,4,39388,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G86_VK2001DB.png,VK 20.01 D,MT,16614,Germany,1414,1349,8914,-1798,162,-7947
+False,1601,19674,2,17234,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F02_D1.png,D1,LT,5051,France,465,490,4128,-1911,136,-7981
+False,3473,36902,10,71765,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl15_60TP_Lewandowskiego.png,60TP,HT,16537,Poland,4905,26392,13672,-1536,62031,-8066
+False,19281,32461,10,59047,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/uk-GB120_Concept_No_5.png,Concept 5,MT,14823,UK,3183,19836,10162,-1389,13228,-8072
+False,9009,35104,10,71253,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch48_BZ_75.png,BZ-75,HT,18484,China,4515,25877,14087,-1623,15463,-8212
+False,1825,25186,2,19294,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A02_M2_lt.png,M2 Light,LT,1800,USA,277,528,5450,-2322,1352,-8221
+False,4737,32989,10,52623,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/sweden-S11_Strv_103B.png,Strv 103B,TD,12484,Sweden,2541,15642,8523,-1375,33929,-8493
+False,3937,32009,10,62747,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J20_Type_2605.png,Type 5 Heavy,HT,12585,Japan,3816,26742,11249,-1539,5335,-8589
+False,12289,31000,6,35849,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R57_A43.png,A-43,MT,8873,USSR,1618,4614,7454,-1796,3017,-8638
+True,55841,45312,10,79712,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A95_T95_E6.png,T95E6,MT,18169,USA,3111,25101,14014,-1559,1766,-8871
+False,12561,12631,3,10395,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G63_PzI_ausf_C.png,Pz. I C,LT,6015,Germany,154,643,2287,-1956,2008,-8895
+False,20993,35470,10,66467,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R145_Object_705_A.png,Obj. 705A,HT,13568,USSR,4317,26661,12051,-1673,9760,-9232
+False,10785,44083,10,73955,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A69_T110E5.png,T110E5,HT,16105,USA,3337,23065,14266,-1793,24893,-9299
+True,59441,45122,10,74288,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch52_WZ_122_6_F3.png,116-F3,HT,17628,China,4784,21131,12817,-1655,746,-9593
+False,22273,39371,10,68875,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R169_ST_II.png,ST-II,HT,12702,USSR,3308,26517,12030,-1697,5583,-9716
+False,3681,36446,10,62112,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/japan-J16_ST_B1.png,STB-1,MT,13024,Japan,2703,22402,11612,-1824,25907,-9760
+True,22801,34132,10,65031,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/germany-G162_Project_Kpz_07P_E.png,Kpz. 07 P(E),HT,15265,Germany,2954,25635,13008,-2000,36854,-10002
+True,15617,38040,10,68368,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R95_Object_907.png,Obj. 907,MT,16958,USSR,2688,23944,14565,-2252,17157,-10574
+False,5425,40648,10,70198,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/china-Ch22_113.png,113,HT,15273,China,3568,25157,13710,-2125,3530,-10881
+True,61697,32423,10,58116,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R120_T22SR_A22.png,T-22 med.,MT,13644,USSR,2493,22947,11421,-2141,722,-10899
+False,16961,38827,10,65993,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F82_AMX_M4_Mle1949_Ter.png,AMX M4 54,HT,14663,France,3958,23584,12496,-2098,15607,-11081
+False,20225,30029,10,52687,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R149_Object_268_4.png,Obj. 268 4,TD,13586,USSR,4314,20376,10711,-2298,11855,-11304
+False,6145,45545,10,71917,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R90_IS_4M.png,IS-4,HT,14015,USSR,3878,23693,12900,-2033,10862,-11336
+False,22017,35868,10,64944,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R155_Object_277.png,Obj. 277,HT,16083,USSR,3822,24816,13514,-2460,43574,-11823
+True,50593,41783,10,62859,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It21_Lion.png,Lion,MT,11369,Italy,3835,21569,11581,-2185,11216,-11862
+True,13889,23341,10,38944,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F64_AMX_50Fosh_155.png,Foch 155,TD,9722,France,3888,18323,7061,-2256,11014,-12442
+True,32001,41443,10,67114,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R178_Object_780.png,Obj. 780,HT,13639,USSR,4210,24583,12196,-2281,5799,-12552
+False,2929,39450,10,63718,https://api.worldoftanks.com/static/2.69.0/wot/encyclopedia/vehicle/contour/czech-Cz17_Vz_55.png,Vz. 55,HT,15197,Czech,4092,22138,12017,-2464,23578,-13067
+False,8289,44358,10,65156,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/japan-J35_Ho_Ri_3.png,Ho-Ri 3,TD,15665,Japan,5200,18762,10970,-2294,21358,-13630
+True,6225,41779,10,65472,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB13_FV215b.png,FV215b,HT,13788,UK,3485,23912,12217,-2613,3191,-14007
+False,14881,45350,10,68415,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/usa-A67_T57_58.png,T57 Heavy,HT,12848,USA,3476,24706,12780,-2706,15021,-14489
+True,58369,40807,10,70636,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R110_Object_260.png,Obj. 260,HT,19573,USSR,3757,24861,15530,-3211,31314,-14605
+False,5265,39688,10,64248,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/poland-Pl21_CS_63.png,CS-63,MT,16013,Poland,3791,23220,14043,-3207,33513,-14673
+False,15697,48925,10,72796,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB91_Super_Conqueror.png,S. Conqueror,HT,15873,UK,3667,22710,13623,-2753,64892,-14713
+False,5281,40554,10,55299,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/italy-It23_CC_3.png,Minotauro,TD,9928,Italy,4272,20802,9829,-2841,33134,-15985
+True,9297,31662,10,44386,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB48_FV215b_183.png,FV215b 183,TD,12103,UK,6785,17236,7403,-2771,15602,-16616
+False,6209,48883,10,71596,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F10_AMX_50B.png,AMX 50 B,HT,16719,France,4120,22691,13845,-3228,18234,-16696
+False,21537,38143,10,57224,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/usa-A143_M_V_Y.png,M-V-Y,HT,12063,USA,2813,23825,10532,-3093,8781,-16807
+True,62513,37111,10,59965,https://api.worldoftanks.com/static/2.71.0/wot/encyclopedia/vehicle/contour/china-Ch22_113_Beijing_Opera.png,113 BO,HT,13005,China,3363,26986,11502,-3287,1893,-17137
+True,50849,60555,10,82187,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/italy-It20_Carro_Combattimento_45t.png,Carro 45 t,MT,18271,Italy,4524,21041,14139,-3041,3068,-17681
+False,13905,30097,10,42076,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB83_FV4005.png,FV4005,TD,13623,UK,6942,16461,7235,-3113,56493,-18106
+False,15953,37268,10,50892,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB92_FV217.png,Badger,TD,11747,UK,3295,20798,9337,-3471,9399,-18922
+True,57937,48869,10,71752,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/uk-GB98_T95_FV4201_Chieftain.png,T95/FV4201,HT,19085,UK,4293,26908,14031,-4519,12802,-23111
+False,17729,41517,10,44536,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/france-F64_AMX_50Fosh_B.png,Foch B,TD,10767,France,3541,18629,8379,-4962,7191,-26377
+True,46849,52414,10,71011,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/ussr-R157_Object_279R.png,Obj. 279 (e),HT,21148,USSR,4434,25849,13935,-5573,17030,-28402
+True,51729,63201,3,37731,https://api.worldoftanks.com/static/2.66.0/wot/encyclopedia/vehicle/contour/germany-G36_PzII_J.png,Pz. II J,LT,2957,Germany,384,689,8646,-6671,1209,-29116
